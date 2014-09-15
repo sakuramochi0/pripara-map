@@ -1,14 +1,5 @@
 #!/bin/zsh
-
-# convert md to html by md2html
 for i in *.md; do
-    md2html $i -h ${i}-header
+    pandoc -t html5+lhs -H default-header -H ${i:r}-header ${i} -o html/${i:r}.html
 done
-
-# move html files to html/
-for i in *.html; do
-    mv $i html/
-done
-
-#rm *.md *.html *-header
 
