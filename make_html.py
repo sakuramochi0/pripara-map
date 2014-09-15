@@ -2,9 +2,6 @@
 # Make html pages from map list
 # do following command: ./make_html.py && for i in *.md; do; md2html $i -h; done && mv *.html html/
 import csv
-import glob
-import subprocess
-import os
 
 with open('google-map-link.csv') as f:
     f.readline() # skip header
@@ -36,21 +33,3 @@ with open('google-map-link.csv') as f:
     with open('index.md', 'w') as f:
         f.write(html)
 
-    # convert md to html by md2html
-    for i in glob.glob('*.md'):
-        basename = os.path.splitext(i)[0]
-        commands = ['md2html', i, '-h', basename + '-header']
-        subprocess.call(commands)
-
-    # move html files to html/
-    for i in glob.glob('*.html'):
-        os.rename(i, 'html/' + i)
-
-    # clean files
-    # for i in glob.glob('*.md'):
-    #     os.remove(i)
-    # for i in glob.glob('*.html'):
-    #     os.remove(i)
-    # for i in glob.glob('*-header'):
-    #     os.remove(i)
-    
