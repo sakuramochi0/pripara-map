@@ -8,7 +8,11 @@ with open('google-map-link.csv') as f:
     reader = csv.reader(f)
     
     links = []
-    for pref, pref_name, mid in reader:
+    pre_region = ''
+    for pref, pref_name, region, mid in reader:
+        if region != pre_region:
+            links.append('\n### {}'.format(region))
+            pre_region = region
         links.append('* [{}]({})'.format(pref, pref_name))
 
         # make pref pages
@@ -29,7 +33,9 @@ with open('google-map-link.csv') as f:
 
     with open('index-template') as f:
         template = f.read()
-    html = template.format(links='\n'.join(links))
+    with open('store_num.txt') as f:
+        store_num = f.read()
+    html = template.format(links='\n'.join(links), store_num=store_num)
     with open('index.md', 'w') as f:
         f.write(html)
 
