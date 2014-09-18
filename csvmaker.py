@@ -12,6 +12,7 @@ BASE_URL = 'http://pripara.jp/shop/search_list?pref_name={}'
 soup = BeautifulSoup(requests.get('http://pripara.jp/shop/').text)
 pref_list = [i['value'] for i in soup('option', value=re.compile(r'.+'))]
 
+store_num = 0
 for pref_num, pref in enumerate(pref_list):
     url = BASE_URL.format(quote_plus(pref))
     r = requests.get(url)
@@ -31,4 +32,7 @@ for pref_num, pref in enumerate(pref_list):
             address = re.sub(r'　', '', address)   # avoid import error
             with open(filename, 'a') as f:
                 f.write(','.join([shop, address]) + '\n')
+                store_num += 1
 
+with open('store_num.txt', 'w') as f:
+    f.write(str(store_num))
