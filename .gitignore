@@ -1,0 +1,6 @@
+*.md
+*-header
+*_flymake*
+!index-header
+html
+
