@@ -1,8 +1,14 @@
 ---
-title: プリパラが遊べるお店の地図
+pagetitle: プリパラが遊べるお店の地図
 ---
 
 <div id="main">
+
+<ol class="breadcrumb">
+<li>[home](/)</li>
+<li>pripara</li>
+<li>**map**</li>
+</ol>
 
 # プリパラが遊べるお店の地図
 
@@ -14,13 +20,29 @@ title: プリパラが遊べるお店の地図
 ## これは何？
 『プリパラ』公式ページの「[遊べるお店](http://pripara.jp/shop/)」にあるデータをGoogle Mapにプロットしたものです。お店と住所の一覧だけでは、近くにあるお店を探しにくかったので作りました。お役に立てば幸いです。
 
-### 注意
-* このマップは、2014年8月18日に取得したデータを元に作ったものなので、それ以降に追加されたお店は載っていません。
-* 「遊べるお店」に書かれている住所の中には、一部正しくないものも含まれているらしく、地図中のピンの位置が正しくない場合があります。実際にお店に行くときには、お店の名前で検索を行うなど、ご自分で確認をするようにしてください。
-* その他、何かありましたら、[メール](mailto:sakuramochi.mochi.0@gmail.com)または[Twitterアカウント](https://twitter.com/intent/tweet?text=@sakuramochi_0%20[%E3%83%97%E3%83%AA%E3%83%91%E3%83%A9%E3%81%8C%E9%81%8A%E3%81%B9%E3%82%8B%E3%81%8A%E5%BA%97%E3%81%AE%E3%83%9E%E3%83%83%E3%83%97%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6]%20)まで、お気軽にメッセージをください。
+## 注意事項
+この地図は、2014年9月18日に取得したデータを元に作りました。それ以降に追加されたお店は、地図には掲載されていません。
+
+また、「遊べるお店」に書かれている住所の中には、一部正しくないものも含まれているらしく、地図中のピンの位置が正しくない場合があります。実際にお店に行くときには、お店の名前で検索を行うなど、ご自分で確認をするようにしてください。
+
+その他、何かありましたら、[メール](mailto:sakuramochi.mochi.0@gmail.com)または[Twitterアカウント](https://twitter.com/intent/tweet?text=@sakuramochi_0%20[%E3%83%97%E3%83%AA%E3%83%91%E3%83%A9%E3%81%8C%E9%81%8A%E3%81%B9%E3%82%8B%E3%81%8A%E5%BA%97%E3%81%AE%E3%83%9E%E3%83%83%E3%83%97%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6]%20)まで、お気軽にメッセージをください。
 
 ## 地図の一覧
 
+* 更新日: 2014年9月18日
+* 登録されているお店の数: {store_num}件
+
 {links}
+
+## その他
+
+ソースコード:
+<a href="https://github.com/sakuramochi0/pripara-map">
+<button type="button" class="btn btn-default">
+<span class="fa-lg fa fa-github"></span> GitHub
+</button>
+</a>
+
+背景: [Pattern 18](http://ransie3.deviantart.com/art/Patterns-18-157433808) by Ransie3 on deviantART
 
 </div>
