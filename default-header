@@ -1,0 +1,11 @@
+<script>
+(function(){
+    var _UA = navigator.userAgent;
+    if (_UA.indexOf('iPhone') > -1 || _UA.indexOf('iPod') > -1) {
+        document.write('<link rel="stylesheet" href="phone.css">');
+        document.write('<link rel="stylesheet" href="iphone.css">');
+    } else if (_UA.indexOf('Android') > -1) {
+        document.write('<link rel="stylesheet" href="phone.css">');
+    }
+})();
+</script>
