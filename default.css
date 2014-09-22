@@ -36,6 +36,16 @@ h2 {
    border: none;
 }
 
+figcaption {
+   text-align: center;
+}
+
+.star {
+   color: rgb(255, 245, 0);
+   text-shadow: 0 0 2px black;
+   margin: 0 2px;   
+}
+
 ul li {
    margin-bottom: 1em;
 }
