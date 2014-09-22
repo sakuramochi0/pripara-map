@@ -14,7 +14,14 @@ Codes for Pripara Maps (http://sakuramochi.mydns.jp/pripara/map).
 ### Other files
 
 * google-map-link.csv - includes urls of Google Maps manually plotted places in the csv files.
-* index-template, pref-header-template, pref-template - are templates for html.
+* csv/ - a directory including csv files containing addresses of shops.
+
+#### Template for html
+
+* default-header
+* index-template
+* pref-header-template
+* pref-template
 
 ## How to edit html files
 
