@@ -46,6 +46,12 @@ figcaption {
    margin: 0 2px;   
 }
 
+.star-blue {
+   color: rgb(0, 216, 255);
+   text-shadow: 0 0 2px black;
+   margin: 0 2px;   
+}
+
 ul li {
    margin-bottom: 1em;
 }
