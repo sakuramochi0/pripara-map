@@ -56,6 +56,16 @@ ul li {
    margin-bottom: 1em;
 }
 
+dt {
+   font-weight: bold;
+   margin-top: 1em;
+}
+
+dd {
+   margin-top: 1em;
+   margin-left: 1em;
+}
+
 /* bootstrap */
 
 .btn-default:hover, .btn-default:focus, .btn-default:active, .btn-default.active, .open>.dropdown-toggle.btn-default {
