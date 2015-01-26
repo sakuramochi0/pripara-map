@@ -1,0 +1,1249 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>プリパラが遊べるお店 大阪府</name>
+		<description><![CDATA[『プリパラ』公式ページの「遊べるお店」(http://pripara.jp/shop/)にあるデータをプロットしたものです。お店と住所の一覧だけでは探しにくかったので作りました。他の都道府県の地図は、 http://sakuramochi.mydns.jp/pripara/map をご覧ください。]]></description>
+		<Folder>
+			<name>26-大阪府-0.csv</name>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アル・プラザ高槻</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府高槻市芥川町１－２Ｃ－２０１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府高槻市芥川町１－２Ｃ－２０１]]></description>
+				<Point>
+					<coordinates>135.61629910000002,34.8520456,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アル・プラザ茨木</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府茨木市上郡２－１２－８</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府茨木市上郡２－１２－８]]></description>
+				<address>大阪府茨木市上郡２－１２－８</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アル・プラザ香里園</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府寝屋川市日新町５－５</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府寝屋川市日新町５－５]]></description>
+				<address>大阪府寝屋川市日新町５－５</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アル・プラザ枚方</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府枚方市津田元町１－４－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府枚方市津田元町１－４－１]]></description>
+				<address>大阪府枚方市津田元町１－４－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ペリカン若江岩田</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府東大阪市瓜生堂１－１０－５２ イズミヤ内２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府東大阪市瓜生堂１－１０－５２ イズミヤ内２Ｆ]]></description>
+				<address>大阪府東大阪市瓜生堂１－１０－５２ イズミヤ内２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ペリカン千里丘</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府吹田市山田南１－１ イズミヤ内２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府吹田市山田南１－１ イズミヤ内２Ｆ]]></description>
+				<address>大阪府吹田市山田南１－１ イズミヤ内２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ペリカン和泉中央</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府和泉市いぶき野５丁目１番１１号 エコールいずみ店内２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府和泉市いぶき野５丁目１番１１号 エコールいずみ店内２Ｆ]]></description>
+				<address>大阪府和泉市いぶき野５丁目１番１１号 エコールいずみ店内２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス堺</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府堺市北区長曽根町１９２１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府堺市北区長曽根町１９２１]]></description>
+				<address>大阪府堺市北区長曽根町１９２１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス住之江公園</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府大阪市住之江区南加賀屋２－３－２３</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府大阪市住之江区南加賀屋２－３－２３]]></description>
+				<address>大阪府大阪市住之江区南加賀屋２－３－２３</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス貝塚</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府貝塚市石才２１７</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府貝塚市石才２１７]]></description>
+				<address>大阪府貝塚市石才２１７</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス香里園</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府寝屋川市日新町５－５ アル・プラザ香里園３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府寝屋川市日新町５－５ アル・プラザ香里園３Ｆ]]></description>
+				<address>大阪府寝屋川市日新町５－５ アル・プラザ香里園３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス茨木</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府茨木市藤の里１－７－４１茨木ショッピングプラザ１Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府茨木市藤の里１－７－４１茨木ショッピングプラザ１Ｆ]]></description>
+				<Point>
+					<coordinates>135.5453096,34.837598,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス泉北ニュータウン</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府堺市中区三原台１－１－３ＪＯＹＰＡＲＫ泉ヶ丘３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府堺市中区三原台１－１－３ＪＯＹＰＡＲＫ泉ヶ丘３Ｆ]]></description>
+				<Point>
+					<coordinates>135.5142368,34.4988864,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス藤井寺</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府藤井寺市岡２－８－４１ソリヤ２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府藤井寺市岡２－８－４１ソリヤ２Ｆ]]></description>
+				<address>大阪府藤井寺市岡２－８－４１ソリヤ２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス阪急山田</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府吹田市山田西４－１－２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府吹田市山田西４－１－２]]></description>
+				<address>大阪府吹田市山田西４－１－２</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス大阪鶴見</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府大阪市鶴見区鶴見４－１７－１－４１５イオンモール鶴見緑地４Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府大阪市鶴見区鶴見４－１７－１－４１５イオンモール鶴見緑地４Ｆ]]></description>
+				<address>大阪府大阪市鶴見区鶴見４－１７－１－４１５イオンモール鶴見緑地４Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらスなんばパークス</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府大阪市浪速区難波中２－１０－７０なんばパークス１Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府大阪市浪速区難波中２－１０－７０なんばパークス１Ｆ]]></description>
+				<address>大阪府大阪市浪速区難波中２－１０－７０なんばパークス１Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ライフ関目</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府大阪市城東区関目１－５－３</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府大阪市城東区関目１－５－３]]></description>
+				<address>大阪府大阪市城東区関目１－５－３</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ライフ喜連瓜破</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府大阪市平野区喜連西６－２－３４</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府大阪市平野区喜連西６－２－３４]]></description>
+				<address>大阪府大阪市平野区喜連西６－２－３４</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ライフ杭全</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府大阪市東住吉区杭全５－１１－７</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府大阪市東住吉区杭全５－１１－７]]></description>
+				<address>大阪府大阪市東住吉区杭全５－１１－７</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ライフ住吉</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府大阪市住吉区万代４－１３－３</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府大阪市住吉区万代４－１３－３]]></description>
+				<address>大阪府大阪市住吉区万代４－１３－３</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ライフ新大阪</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府大阪市淀川区西三国１－７－４４</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府大阪市淀川区西三国１－７－４４]]></description>
+				<address>大阪府大阪市淀川区西三国１－７－４４</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ライフ西宮原</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府大阪市淀川区西宮原２－２－２２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府大阪市淀川区西宮原２－２－２２]]></description>
+				<Point>
+					<coordinates>135.4923517,34.73525200000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ライフ巽</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府大阪市生野区巽中１－２２－２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府大阪市生野区巽中１－２２－２]]></description>
+				<address>大阪府大阪市生野区巽中１－２２－２</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ライフ長居</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府大阪市住吉区長居東３－１－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府大阪市住吉区長居東３－１－１]]></description>
+				<address>大阪府大阪市住吉区長居東３－１－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ライフ南津守</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府大阪市西成区南津守６－１－７５</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府大阪市西成区南津守６－１－７５]]></description>
+				<Point>
+					<coordinates>135.483,34.6282706,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ライフ門真</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府門真市島頭３－４－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府門真市島頭３－４－１]]></description>
+				<address>大阪府門真市島頭３－４－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>エディオン豊中</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府豊中市日出町２－２－１８</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府豊中市日出町２－２－１８]]></description>
+				<address>大阪府豊中市日出町２－２－１８</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イズミヤ八尾</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府八尾市沼１－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府八尾市沼１－１]]></description>
+				<address>大阪府八尾市沼１－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イズミヤ松原</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府松原市上田６－４－８</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府松原市上田６－４－８]]></description>
+				<address>大阪府松原市上田６－４－８</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イズミヤ泉北</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府堺市中区小阪２７０</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府堺市中区小阪２７０]]></description>
+				<address>大阪府堺市中区小阪２７０</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ヤマダ電機ＬＡＢＩ１なんば</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府大阪市浪速区難波中二丁目１１番３５号 ＡＶソフトコーナー</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府大阪市浪速区難波中二丁目１１番３５号 ＡＶソフトコーナー]]></description>
+				<address>大阪府大阪市浪速区難波中二丁目１１番３５号 ＡＶソフトコーナー</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ヤマダ電機ＬＡＢＩ千里</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府豊中市新千里東町１丁目２－２０ＡＶソフトコーナー</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府豊中市新千里東町１丁目２－２０ＡＶソフトコーナー]]></description>
+				<Point>
+					<coordinates>135.4948608,34.8120954,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ヤマダ電機テックランド高槻大塚本店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府高槻市大塚町５丁目２番６号</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府高槻市大塚町５丁目２番６号]]></description>
+				<address>大阪府高槻市大塚町５丁目２番６号</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>西友八戸の里</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府東大阪市下小阪５－２－３５</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府東大阪市下小阪５－２－３５]]></description>
+				<address>大阪府東大阪市下小阪５－２－３５</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>キデイランド大阪梅田</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府大阪市北区芝田１－１－３ 阪急三番街</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府大阪市北区芝田１－１－３ 阪急三番街]]></description>
+				<address>大阪府大阪市北区芝田１－１－３ 阪急三番街</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ダイエー曽根</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府豊中市曽根東町３－３－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府豊中市曽根東町３－３－１]]></description>
+				<address>大阪府豊中市曽根東町３－３－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ダイエー池田駅前</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府池田市満寿美町２－２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府池田市満寿美町２－２]]></description>
+				<Point>
+					<coordinates>135.426216,34.8205125,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>セガ今福</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府大阪市城東区今福東１－９－３４</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府大阪市城東区今福東１－９－３４]]></description>
+				<address>大阪府大阪市城東区今福東１－９－３４</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>セガあべのキューズモール</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府大阪市阿倍野区阿倍野筋１－６－１ あべのマーケットパークキューズモール３階</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府大阪市阿倍野区阿倍野筋１－６－１ あべのマーケットパークキューズモール３階]]></description>
+				<address>大阪府大阪市阿倍野区阿倍野筋１－６－１ あべのマーケットパークキューズモール３階</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>セガビバモール寝屋川</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府寝屋川市寝屋南２丁目２２－２ ビバモール寝屋川モール棟２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府寝屋川市寝屋南２丁目２２－２ ビバモール寝屋川モール棟２Ｆ]]></description>
+				<address>大阪府寝屋川市寝屋南２丁目２２－２ ビバモール寝屋川モール棟２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>セガ新三国アルゴ７</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府豊中市神州町１－１５</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府豊中市神州町１－１５]]></description>
+				<Point>
+					<coordinates>135.4796816,34.738431,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ＡＧスクエア東大阪</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府東大阪市稲田新町３－９－６４</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府東大阪市稲田新町３－９－６４]]></description>
+				<address>大阪府東大阪市稲田新町３－９－６４</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ＡＧスクエア岸和田</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府岸和田市港緑町２－１２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府岸和田市港緑町２－１２]]></description>
+				<Point>
+					<coordinates>135.3715001,34.4667394,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>セガワールド松原</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府堺市東区八下町３丁－１０</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府堺市東区八下町３丁－１０]]></description>
+				<address>大阪府堺市東区八下町３丁－１０</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ＣＬＵＢＳＥＧＡ藤井寺</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府藤井寺市沢田１－２０－８</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府藤井寺市沢田１－２０－８]]></description>
+				<address>大阪府藤井寺市沢田１－２０－８</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>セガワールド和泉</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府和泉市肥子町２－４－４１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府和泉市肥子町２－４－４１]]></description>
+				<address>大阪府和泉市肥子町２－４－４１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ヨドバシカメラ梅田</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府大阪市北区大深町１－１５Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府大阪市北区大深町１－１５Ｆ]]></description>
+				<address>大阪府大阪市北区大深町１－１５Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ＮＩＣＯＰＡ原山台店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府堺市南区原山台５－９－８</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府堺市南区原山台５－９－８]]></description>
+				<address>大阪府堺市南区原山台５－９－８</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ＮＩＣＯＰＡベルファ都島店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府大阪市都島区友渕町２－１３－３４</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府大阪市都島区友渕町２－１３－３４]]></description>
+				<address>大阪府大阪市都島区友渕町２－１３－３４</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>テクモピア寝屋川店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府寝屋川市緑町５－８イオンモール寝屋川グリーンシティ３階</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府寝屋川市緑町５－８イオンモール寝屋川グリーンシティ３階]]></description>
+				<address>大阪府寝屋川市緑町５－８イオンモール寝屋川グリーンシティ３階</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>レインボーランド若江岩田店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府東大阪市瓜生堂１丁目１０番５２号イズミヤ若江岩田店４階</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府東大阪市瓜生堂１丁目１０番５２号イズミヤ若江岩田店４階]]></description>
+				<address>大阪府東大阪市瓜生堂１丁目１０番５２号イズミヤ若江岩田店４階</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>レインボーランド大東店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府大東市住道２丁目１番１０３号イズミヤ大東店４階</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府大東市住道２丁目１番１０３号イズミヤ大東店４階]]></description>
+				<address>大阪府大東市住道２丁目１番１０３号イズミヤ大東店４階</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>レインボーランド西岸和田店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府岸和田市港緑町２－１イズミヤ西岸和田店３階</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府岸和田市港緑町２－１イズミヤ西岸和田店３階]]></description>
+				<Point>
+					<coordinates>135.3713416,34.4667101,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>Ｆｏｒｋｉｄｓ’あべの</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府大阪市阿倍野区阿倍野筋１－１－４３ あべのハルカス近鉄本店ウイング館８Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府大阪市阿倍野区阿倍野筋１－１－４３ あべのハルカス近鉄本店ウイング館８Ｆ]]></description>
+				<address>大阪府大阪市阿倍野区阿倍野筋１－１－４３ あべのハルカス近鉄本店ウイング館８Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>高島屋　泉北店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府堺市南区茶山台 １－３－１４Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府堺市南区茶山台 １－３－１４Ｆ]]></description>
+				<address>大阪府堺市南区茶山台 １－３－１４Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>タイトーステーション　難波店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府大阪市中央区難波千日前１５－１２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府大阪市中央区難波千日前１５－１２]]></description>
+				<address>大阪府大阪市中央区難波千日前１５－１２</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>タイトーステーション　大阪日本橋店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府大阪市浪速区日本橋４－９－１４</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府大阪市浪速区日本橋４－９－１４]]></description>
+				<address>大阪府大阪市浪速区日本橋４－９－１４</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>タイトーＦステーション　住道店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府大東市赤井１丁目４番３号</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府大東市赤井１丁目４番３号]]></description>
+				<Point>
+					<coordinates>135.619411,34.7085893,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ジョーシン新石切</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府東大阪市弥生町１６－１２ ホームセンターコーナン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府東大阪市弥生町１６－１２ ホームセンターコーナン２Ｆ]]></description>
+				<Point>
+					<coordinates>135.6372354,34.6792573,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ジョーシン大東</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府大東市新田旭町２－８</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府大東市新田旭町２－８]]></description>
+				<address>大阪府大東市新田旭町２－８</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ジョーシン外環柏原</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府柏原市本郷５－９６９</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府柏原市本郷５－９６９]]></description>
+				<address>大阪府柏原市本郷５－９６９</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー津久野</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府堺市西区下田町２０－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府堺市西区下田町２０－１]]></description>
+				<address>大阪府堺市西区下田町２０－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー東大阪</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府東大阪市吉田下島１－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府東大阪市吉田下島１－１]]></description>
+				<address>大阪府東大阪市吉田下島１－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドーアリオ八尾</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府八尾市光町２－３</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府八尾市光町２－３]]></description>
+				<address>大阪府八尾市光町２－３</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドーアリオ鳳</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府堺市西区鳳南町３－１９９－１２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府堺市西区鳳南町３－１９９－１２]]></description>
+				<address>大阪府堺市西区鳳南町３－１９９－１２</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドーあべの</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府大阪市阿倍野区阿倍野筋１－６－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府大阪市阿倍野区阿倍野筋１－６－１]]></description>
+				<address>大阪府大阪市阿倍野区阿倍野筋１－６－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ＲＯＣＫＥＴ　ＤＲＩＶＥ泉南店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府泉南市りんくう南浜３番１２イオンモールりんくう泉南２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府泉南市りんくう南浜３番１２イオンモールりんくう泉南２Ｆ]]></description>
+				<Point>
+					<coordinates>135.2679621,34.3810544,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ゲオ八尾店　　　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府八尾市東本町４丁目２番５０号</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府八尾市東本町４丁目２番５０号]]></description>
+				<address>大阪府八尾市東本町４丁目２番５０号</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジーりんくう泉南</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府泉南市りんくう南浜３－１イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府泉南市りんくう南浜３－１イオン２Ｆ]]></description>
+				<Point>
+					<coordinates>135.267887,34.3813643,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー茨木</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府茨木市松ヶ本町８－３０－５ イオンＳＣ４Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府茨木市松ヶ本町８－３０－５ イオンＳＣ４Ｆ]]></description>
+				<address>大阪府茨木市松ヶ本町８－３０－５ イオンＳＣ４Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー貝塚</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府貝塚市地蔵堂７４－２イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府貝塚市地蔵堂７４－２イオン２Ｆ]]></description>
+				<address>大阪府貝塚市地蔵堂７４－２イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー喜連瓜破駅前　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府大阪市平野区瓜破２－１－１３イオン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府大阪市平野区瓜破２－１－１３イオン３Ｆ]]></description>
+				<address>大阪府大阪市平野区瓜破２－１－１３イオン３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー金剛東</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府富田林市向陽台３－１－１ イオン４Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府富田林市向陽台３－１－１ イオン４Ｆ]]></description>
+				<address>大阪府富田林市向陽台３－１－１ イオン４Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー光明池</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府和泉市室堂町８２４－５５イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府和泉市室堂町８２４－５５イオン２Ｆ]]></description>
+				<address>大阪府和泉市室堂町８２４－５５イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー高槻</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府高槻市萩之庄３－４７－２ イオン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府高槻市萩之庄３－４７－２ イオン３Ｆ]]></description>
+				<address>大阪府高槻市萩之庄３－４７－２ イオン３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー鴻池</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府東大阪市鴻池町１－１－７２イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府東大阪市鴻池町１－１－７２イオン２Ｆ]]></description>
+				<address>大阪府東大阪市鴻池町１－１－７２イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー堺北花田</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府堺市北区東浅香山町４－１－１２イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府堺市北区東浅香山町４－１－１２イオン２Ｆ]]></description>
+				<address>大阪府堺市北区東浅香山町４－１－１２イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー新金岡</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府堺市北区新金岡町４－１－１１イオン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府堺市北区新金岡町４－１－１１イオン３Ｆ]]></description>
+				<address>大阪府堺市北区新金岡町４－１－１１イオン３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー大阪ドームシティ</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府大阪市西区千代崎３丁目１３番１イオン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府大阪市西区千代崎３丁目１３番１イオン３Ｆ]]></description>
+				<address>大阪府大阪市西区千代崎３丁目１３番１イオン３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー大日</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府守口市大日東町１番１８号イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府守口市大日東町１番１８号イオン２Ｆ]]></description>
+				<address>大阪府守口市大日東町１番１８号イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー鶴見</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府大阪市鶴見区鶴見４丁目１７－１イオン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府大阪市鶴見区鶴見４丁目１７－１イオン３Ｆ]]></description>
+				<address>大阪府大阪市鶴見区鶴見４丁目１７－１イオン３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー東岸和田</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府岸和田市土生町２－３２－７イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府岸和田市土生町２－３２－７イオン２Ｆ]]></description>
+				<address>大阪府岸和田市土生町２－３２－７イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー東大阪</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府東大阪市荒本北２丁目３番２２号イオン１Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府東大阪市荒本北２丁目３番２２号イオン１Ｆ]]></description>
+				<address>大阪府東大阪市荒本北２丁目３番２２号イオン１Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー南千里</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府吹田市千里山西６－５６－１イオン４Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府吹田市千里山西６－５６－１イオン４Ｆ]]></description>
+				<address>大阪府吹田市千里山西６－５６－１イオン４Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー北千里</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府吹田市古江台４－２－５０イオン５Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府吹田市古江台４－２－５０イオン５Ｆ]]></description>
+				<Point>
+					<coordinates>135.5093283,34.8200285,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー枚方</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府枚方市岡本町７番１－２０３イオン４Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府枚方市岡本町７番１－２０３イオン４Ｆ]]></description>
+				<Point>
+					<coordinates>135.6465054,34.8156148,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー野田阪神</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府大阪市福島区海老江１－１－２３ イオン４Ｆ </value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府大阪市福島区海老江１－１－２３ イオン４Ｆ ]]></description>
+				<address>大阪府大阪市福島区海老江１－１－２３ イオン４Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー和泉府中</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府和泉市肥子町２－２－１イオン４Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府和泉市肥子町２－２－１イオン４Ｆ]]></description>
+				<Point>
+					<coordinates>135.4209081,34.4856061,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>らんらんらんどおおとり</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府堺市西区鳳東町７－７３３ おおとりウィングス２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府堺市西区鳳東町７－７３３ おおとりウィングス２Ｆ]]></description>
+				<address>大阪府堺市西区鳳東町７－７３３ おおとりウィングス２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>らんらんらんど京橋１４</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府大阪市都島区片町２－３－５１ ダイエー京橋店４Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府大阪市都島区片町２－３－５１ ダイエー京橋店４Ｆ]]></description>
+				<Point>
+					<coordinates>135.5328747,34.6962645,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>らんらんらんど摂津富田</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府高槻市大畑町１３－１ダイエー摂津富田店２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府高槻市大畑町１３－１ダイエー摂津富田店２Ｆ]]></description>
+				<address>大阪府高槻市大畑町１３－１ダイエー摂津富田店２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ビックカメラなんば</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府大阪市中央区千日前２丁目１０－１トイズコーナー</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府大阪市中央区千日前２丁目１０－１トイズコーナー]]></description>
+				<Point>
+					<coordinates>135.5026172,34.6666926,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン新茨木</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府茨木市中津町１８－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府茨木市中津町１８－１]]></description>
+				<address>大阪府茨木市中津町１８－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン箕面</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府箕面市西宿１－１５－３０</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府箕面市西宿１－１５－３０]]></description>
+				<address>大阪府箕面市西宿１－１５－３０</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン布施駅前</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府東大阪市長堂１－８－３７</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府東大阪市長堂１－８－３７]]></description>
+				<Point>
+					<coordinates>135.56360630000003,34.6656588,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン野田阪神</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府大阪市福島区海老江１－１－２３</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府大阪市福島区海老江１－１－２３]]></description>
+				<address>大阪府大阪市福島区海老江１－１－２３</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン高槻</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府高槻市萩之庄３－４７－２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府高槻市萩之庄３－４７－２]]></description>
+				<Point>
+					<coordinates>135.6439582,34.859137,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン大日</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府守口市大日東町１－１８</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府守口市大日東町１－１８]]></description>
+				<address>大阪府守口市大日東町１－１８</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン茨木</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府茨木市松ヶ本町８－３０－３</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府茨木市松ヶ本町８－３０－３]]></description>
+				<address>大阪府茨木市松ヶ本町８－３０－３</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>わくわくアミーゴ尾崎店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府阪南市下出１６７－１ オークワわくわくCITY尾崎店２階</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府阪南市下出１６７－１ オークワわくわくCITY尾崎店２階]]></description>
+				<address>大阪府阪南市下出１６７－１ オークワわくわくCITY尾崎店２階</address>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>26-大阪府-1.csv</name>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン大阪DC</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府大阪市西区千代崎３－１３－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府大阪市西区千代崎３－１３－１]]></description>
+				<Point>
+					<coordinates>135.4779902,34.6704121,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン東大阪</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府東大阪市荒本北２－３－２２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府東大阪市荒本北２－３－２２]]></description>
+				<address>大阪府東大阪市荒本北２－３－２２</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン堺北花田</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府堺市北区東浅香山町４丁１－１２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府堺市北区東浅香山町４丁１－１２]]></description>
+				<Point>
+					<coordinates>135.5152639,34.5847839,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオンりんくう泉南</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府泉南市りんくう南浜３－１２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府泉南市りんくう南浜３－１２]]></description>
+				<Point>
+					<coordinates>135.2682731,34.3812906,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン和泉府中</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府和泉市肥子町２－２－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府和泉市肥子町２－２－１]]></description>
+				<Point>
+					<coordinates>135.4210049,34.4856204,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>わくわくアミーゴ北野田店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>大阪府堺市東区丈六１８３－１８ダイエー北野田店２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 大阪府堺市東区丈六１８３－１８ダイエー北野田店２Ｆ]]></description>
+				<address>大阪府堺市東区丈六１８３－１８ダイエー北野田店２Ｆ</address>
+			</Placemark>
+		</Folder>
+		<Style id='icon-960-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

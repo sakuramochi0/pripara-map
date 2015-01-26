@@ -1,0 +1,311 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>プリパラが遊べるお店 鹿児島県/沖縄県</name>
+		<description><![CDATA[『プリパラ』公式ページの「遊べるお店」(http://pripara.jp/shop/)にあるデータをプロットしたものです。お店と住所の一覧だけでは探しにくかったので作りました。他の都道府県の地図は、 http://sakuramochi.mydns.jp/pripara/map をご覧ください。]]></description>
+		<Folder>
+			<name>45-鹿児島県-0.csv</name>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン鹿児島</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>鹿児島県鹿児島市東開町７</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 鹿児島県鹿児島市東開町７]]></description>
+				<Point>
+					<coordinates>130.5368953,31.527252400000002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン姶良</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>鹿児島県姶良郡姶良町 東餅田 ３３６</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 鹿児島県姶良郡姶良町 東餅田 ３３６]]></description>
+				<Point>
+					<coordinates>130.6284793,31.7333009,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン隼人国分</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>鹿児島県霧島市隼人町見次１２２９</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 鹿児島県霧島市隼人町見次１２２９]]></description>
+				<address>鹿児島県霧島市隼人町見次１２２９</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ＴＨＥ　３ＲＤ　ＰＬＡＮＥＴ　ジャングルパーク鹿児島店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>鹿児島県鹿児島市与次郎１丁目１１番１号フレスポジャングルパーク２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 鹿児島県鹿児島市与次郎１丁目１１番１号フレスポジャングルパーク２Ｆ]]></description>
+				<address>鹿児島県鹿児島市与次郎１丁目１１番１号フレスポジャングルパーク２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー姶良</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>鹿児島県姶良市東餅田３３６ イオン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 鹿児島県姶良市東餅田３３６ イオン３Ｆ]]></description>
+				<address>鹿児島県姶良市東餅田３３６ イオン３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー鹿児島</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>鹿児島県鹿児島市東開町７イオンモール３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 鹿児島県鹿児島市東開町７イオンモール３Ｆ]]></description>
+				<address>鹿児島県鹿児島市東開町７イオンモール３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー隼人国分</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>鹿児島県霧島市隼人町見次１２２９イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 鹿児島県霧島市隼人町見次１２２９イオン２Ｆ]]></description>
+				<address>鹿児島県霧島市隼人町見次１２２９イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ビックカメラ鹿児島中央駅店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>鹿児島県鹿児島市中央町１－１ / １階トイズコーナー</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 鹿児島県鹿児島市中央町１－１ / １階トイズコーナー]]></description>
+				<Point>
+					<coordinates>130.5403176,31.5839324,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>46-沖縄県-0.csv</name>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス那覇新都心</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>沖縄県那覇市おもろまち３－３あっぷるタウン１Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 沖縄県那覇市おもろまち３－３あっぷるタウン１Ｆ]]></description>
+				<address>沖縄県那覇市おもろまち３－３あっぷるタウン１Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン具志川</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>沖縄県うるま市字前原幸崎原３０３番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 沖縄県うるま市字前原幸崎原３０３番地]]></description>
+				<Point>
+					<coordinates>127.84470239999999,26.3383301,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン那覇</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>沖縄県那覇市金城５－１０－２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 沖縄県那覇市金城５－１０－２]]></description>
+				<address>沖縄県那覇市金城５－１０－２</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン南風原</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>沖縄県島尻郡南風原町字宮平２６４</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 沖縄県島尻郡南風原町字宮平２６４]]></description>
+				<address>沖縄県島尻郡南風原町字宮平２６４</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン北谷</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>沖縄県北谷町字美浜８－３</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 沖縄県北谷町字美浜８－３]]></description>
+				<address>沖縄県北谷町字美浜８－３</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン名護</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>沖縄県名護市字名護見取川原４４７２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 沖縄県名護市字名護見取川原４４７２]]></description>
+				<address>沖縄県名護市字名護見取川原４４７２</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>（株）サンエー那覇メインプレイス店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>沖縄県那覇市おもろまち４－４－９２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 沖縄県那覇市おもろまち４－４－９２Ｆ]]></description>
+				<Point>
+					<coordinates>127.6951457,26.2255749,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>（株）サンエー具志川メインシティ店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>沖縄県うるま市江洲４５０－１２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 沖縄県うるま市江洲４５０－１２Ｆ]]></description>
+				<Point>
+					<coordinates>127.82585729999998,26.3527184,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>（株）サンエー豊見城ウイングシティ</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>沖縄県豊見城市高安２６１－２２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 沖縄県豊見城市高安２６１－２２Ｆ]]></description>
+				<address>沖縄県豊見城市高安２６１－２２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>（株）サンエーしおざきシティ店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>沖縄県糸満市潮崎町２－２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 沖縄県糸満市潮崎町２－２]]></description>
+				<address>沖縄県糸満市潮崎町２－２</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ゲオ西原店　　　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>沖縄県浦添市当山２丁目２番３号</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 沖縄県浦添市当山２丁目２番３号]]></description>
+				<address>沖縄県浦添市当山２丁目２番３号</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー具志川</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>沖縄県うるま市前原幸崎原３０３番地イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 沖縄県うるま市前原幸崎原３０３番地イオン２Ｆ]]></description>
+				<address>沖縄県うるま市前原幸崎原３０３番地イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー那覇</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>沖縄県那覇市金城５－１０－２イオン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 沖縄県那覇市金城５－１０－２イオン３Ｆ]]></description>
+				<address>沖縄県那覇市金城５－１０－２イオン３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー南風原</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>沖縄県島尻郡南風原町字宮平２６４イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 沖縄県島尻郡南風原町字宮平２６４イオン２Ｆ]]></description>
+				<address>沖縄県島尻郡南風原町字宮平２６４イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー北谷</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>沖縄県中頭郡北谷町字美浜８－３イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 沖縄県中頭郡北谷町字美浜８－３イオン２Ｆ]]></description>
+				<address>沖縄県中頭郡北谷町字美浜８－３イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー名護</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>沖縄県名護市字名護見取川原４４７２イオン１Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 沖縄県名護市字名護見取川原４４７２イオン１Ｆ]]></description>
+				<address>沖縄県名護市字名護見取川原４４７２イオン１Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>らんらんらんど浦添</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>沖縄県浦添市城間４－７－１浦添ショッピングセンター３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 沖縄県浦添市城間４－７－１浦添ショッピングセンター３Ｆ]]></description>
+				<Point>
+					<coordinates>127.71265130000002,26.2586531,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-960-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

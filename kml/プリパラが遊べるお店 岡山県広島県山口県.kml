@@ -1,0 +1,731 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>プリパラが遊べるお店 岡山県/広島県/山口県</name>
+		<description><![CDATA[『プリパラ』公式ページの「遊べるお店」(http://pripara.jp/shop/)にあるデータをプロットしたものです。お店と住所の一覧だけでは探しにくかったので作りました。他の都道府県の地図は、 http://sakuramochi.mydns.jp/pripara/map をご覧ください。]]></description>
+		<Folder>
+			<name>36-岡山県-0.csv</name>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス岡山</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>岡山県岡山市北区岡南町２－６－５２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 岡山県岡山市北区岡南町２－６－５２]]></description>
+				<Point>
+					<coordinates>133.9263805,34.6403394,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>エディオン倉敷本店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>岡山県倉敷市笹沖１２０９－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 岡山県倉敷市笹沖１２０９－１]]></description>
+				<address>岡山県倉敷市笹沖１２０９－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>岡山ジョイポリス</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>岡山県岡山市北区下石井２－１０－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 岡山県岡山市北区下石井２－１０－１]]></description>
+				<address>岡山県岡山市北区下石井２－１０－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ユーズランド倉敷店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>岡山県倉敷市水江一番地イオンモール倉敷２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 岡山県倉敷市水江一番地イオンモール倉敷２Ｆ]]></description>
+				<Point>
+					<coordinates>133.7460732,34.6032748,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アミパラ岡山店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>岡山県岡山市北区青江１丁目１３－８</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 岡山県岡山市北区青江１丁目１３－８]]></description>
+				<address>岡山県岡山市北区青江１丁目１３－８</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>レインボーランド津高店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>岡山県岡山市北区横井上８３番３号イズミヤ津高店４階</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 岡山県岡山市北区横井上８３番３号イズミヤ津高店４階]]></description>
+				<address>岡山県岡山市北区横井上８３番３号イズミヤ津高店４階</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>こどもや西大寺店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>岡山県岡山市西大寺南１－２－１天満屋ハピータウン西大寺店内</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 岡山県岡山市西大寺南１－２－１天満屋ハピータウン西大寺店内]]></description>
+				<Point>
+					<coordinates>134.0300687,34.6524334,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー岡山</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>岡山県岡山市下石井２－１０－２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 岡山県岡山市下石井２－１０－２]]></description>
+				<address>岡山県岡山市下石井２－１０－２</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジーイオン倉敷</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>岡山県倉敷市水江１番地イオン１Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 岡山県倉敷市水江１番地イオン１Ｆ]]></description>
+				<Point>
+					<coordinates>133.7459338,34.6027449,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー岡山</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>岡山県岡山市北区青江２－７－１イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 岡山県岡山市北区青江２－７－１イオン２Ｆ]]></description>
+				<address>岡山県岡山市北区青江２－７－１イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー岡南</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>岡山県岡山市南区築港新町１－１８－５天満屋ハピータウン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 岡山県岡山市南区築港新町１－１８－５天満屋ハピータウン３Ｆ]]></description>
+				<address>岡山県岡山市南区築港新町１－１８－５天満屋ハピータウン３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー岡北</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>岡山県岡山市北区中井町２－２－７天満屋ハピータウン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 岡山県岡山市北区中井町２－２－７天満屋ハピータウン３Ｆ]]></description>
+				<Point>
+					<coordinates>133.9287009,34.6796328,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー玉野</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>岡山県玉野市宇野１－３８－１天満屋ハピータウン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 岡山県玉野市宇野１－３８－１天満屋ハピータウン３Ｆ]]></description>
+				<address>岡山県玉野市宇野１－３８－１天満屋ハピータウン３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー原尾島</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>岡山県岡山市中区原尾島１－６－２０天満屋ハピータウン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 岡山県岡山市中区原尾島１－６－２０天満屋ハピータウン３Ｆ]]></description>
+				<address>岡山県岡山市中区原尾島１－６－２０天満屋ハピータウン３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー児島</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>岡山県倉敷市児島駅前２－３５天満屋ハピータウン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 岡山県倉敷市児島駅前２－３５天満屋ハピータウン３Ｆ]]></description>
+				<address>岡山県倉敷市児島駅前２－３５天満屋ハピータウン３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー水島</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>岡山県倉敷市水島高砂町３番１１号マックスバリュ１Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 岡山県倉敷市水島高砂町３番１１号マックスバリュ１Ｆ]]></description>
+				<Point>
+					<coordinates>133.7369128,34.5304933,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー津山</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>岡山県津山市河辺１０００－１イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 岡山県津山市河辺１０００－１イオン２Ｆ]]></description>
+				<Point>
+					<coordinates>134.0458668,35.0649267,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ビックカメラ岡山駅前</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>岡山県岡山市北区駅前町１－１－１トイズコーナー</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 岡山県岡山市北区駅前町１－１－１トイズコーナー]]></description>
+				<address>岡山県岡山市北区駅前町１－１－１トイズコーナー</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン津山</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>岡山県津山市河辺１０００－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 岡山県津山市河辺１０００－１]]></description>
+				<Point>
+					<coordinates>134.0464004,35.0651166,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオンキッズ倉敷</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>岡山県倉敷市水江１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 岡山県倉敷市水江１]]></description>
+				<address>岡山県倉敷市水江１</address>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>37-広島県-0.csv</name>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ペリカン呉</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>広島県呉市宝町５－１０ゆめタウン呉内３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 広島県呉市宝町５－１０ゆめタウン呉内３Ｆ]]></description>
+				<Point>
+					<coordinates>132.556431,34.2423015,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ペリカン大竹</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>広島県大竹市晴海１－６－１ゆめタウン大竹内２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 広島県大竹市晴海１－６－１ゆめタウン大竹内２Ｆ]]></description>
+				<Point>
+					<coordinates>132.2235994,34.2412056,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス広島八木</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>広島県広島市安佐南区八木１－２８－９</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 広島県広島市安佐南区八木１－２８－９]]></description>
+				<address>広島県広島市安佐南区八木１－２８－９</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス広島宇品</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>広島県広島市南区宇品西２１６－５１ベイシティ宇品２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 広島県広島市南区宇品西２１６－５１ベイシティ宇品２Ｆ]]></description>
+				<Point>
+					<coordinates>132.4579438,34.364442,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス福山</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>広島県福山市東深津町３－２１－４</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 広島県福山市東深津町３－２１－４]]></description>
+				<Point>
+					<coordinates>133.3984065,34.4946142,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらスベビーザらス広島府中</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>広島県安芸郡府中町大須２－１－１イオンモール広島府中３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 広島県安芸郡府中町大須２－１－１イオンモール広島府中３Ｆ]]></description>
+				<address>広島県安芸郡府中町大須２－１－１イオンモール広島府中３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>フジグラン神辺</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>広島県福山市神辺町道上７５</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 広島県福山市神辺町道上７５]]></description>
+				<Point>
+					<coordinates>133.3571823,34.5444996,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>フジグラン三原</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>広島県三原市円一町１－１－７</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 広島県三原市円一町１－１－７]]></description>
+				<Point>
+					<coordinates>133.0790152,34.39282,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>フジグラン緑井</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>広島県広島市安佐南区緑井１－５－２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 広島県広島市安佐南区緑井１－５－２]]></description>
+				<address>広島県広島市安佐南区緑井１－５－２</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>フジグラン安芸</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>広島県安芸郡坂町北新地２丁目３－３０</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 広島県安芸郡坂町北新地２丁目３－３０]]></description>
+				<address>広島県安芸郡坂町北新地２丁目３－３０</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>フジグラン高陽</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>広島県広島市安佐北区亀崎一丁目１番６号</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 広島県広島市安佐北区亀崎一丁目１番６号]]></description>
+				<address>広島県広島市安佐北区亀崎一丁目１番６号</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ヤマダ電機ＬＡＢＩ広島</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>広島県広島市中区胡町５－２２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 広島県広島市中区胡町５－２２]]></description>
+				<address>広島県広島市中区胡町５－２２</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ヤマダ電機テックランド佐伯</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>広島県広島市佐伯区楽々園四丁目１４－３２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 広島県広島市佐伯区楽々園四丁目１４－３２]]></description>
+				<address>広島県広島市佐伯区楽々園四丁目１４－３２</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ヤマダ電機テックランド福山西</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>広島県福山市高西町三丁目２番３８号</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 広島県福山市高西町三丁目２番３８号]]></description>
+				<Point>
+					<coordinates>133.2382948,34.4442867,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アミパラ広島店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>広島県広島市西区西観音町３－１７</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 広島県広島市西区西観音町３－１７]]></description>
+				<address>広島県広島市西区西観音町３－１７</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>タイトーステーション　広島本通店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>広島県広島市中区本通３－５</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 広島県広島市中区本通３－５]]></description>
+				<address>広島県広島市中区本通３－５</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>福山コロナワールド</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>広島県福山市一文字町２４－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 広島県福山市一文字町２４－１]]></description>
+				<address>広島県福山市一文字町２４－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー福山</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>広島県福山市入船町３－１－６０</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 広島県福山市入船町３－１－６０]]></description>
+				<Point>
+					<coordinates>133.3784849,34.4868696,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ふぇすたらんど五日市</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>広島県広島市佐伯区八幡１－２４－１７サンリブ五日市店内</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 広島県広島市佐伯区八幡１－２４－１７サンリブ五日市店内]]></description>
+				<Point>
+					<coordinates>132.3585597,34.3870108,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー・ｆ広島祇園　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>広島県広島市安佐南区祇園３丁目２－１イオンＳＣ３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 広島県広島市安佐南区祇園３丁目２－１イオンＳＣ３Ｆ]]></description>
+				<Point>
+					<coordinates>132.46142790000002,34.4440928,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジーアルパーク広島</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>広島県広島市西区井口明神１丁目１６番１号アルパーク天満屋４Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 広島県広島市西区井口明神１丁目１６番１号アルパーク天満屋４Ｆ]]></description>
+				<address>広島県広島市西区井口明神１丁目１６番１号アルパーク天満屋４Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー宇品</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>広島県広島市南区宇品東６－１－１５イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 広島県広島市南区宇品東６－１－１５イオン２Ｆ]]></description>
+				<address>広島県広島市南区宇品東６－１－１５イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー広島祇園　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>広島県広島市安佐南区祇園３丁目２－１イオン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 広島県広島市安佐南区祇園３丁目２－１イオン３Ｆ]]></description>
+				<address>広島県広島市安佐南区祇園３丁目２－１イオン３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー広島府中</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>広島県安芸郡府中町大須２－１－１イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 広島県安芸郡府中町大須２－１－１イオン２Ｆ]]></description>
+				<address>広島県安芸郡府中町大須２－１－１イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー三原</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>広島県三原市城町２－１３－１ イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 広島県三原市城町２－１３－１ イオン２Ｆ]]></description>
+				<address>広島県三原市城町２－１３－１ イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー尾道</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>広島県尾道市天満町１７－２３イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 広島県尾道市天満町１７－２３イオン２Ｆ]]></description>
+				<address>広島県尾道市天満町１７－２３イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン宇品</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>広島県広島市南区宇品東６－１－１５</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 広島県広島市南区宇品東６－１－１５]]></description>
+				<address>広島県広島市南区宇品東６－１－１５</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン広島府中</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>広島県安芸郡府中町府中町大須２－１－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 広島県安芸郡府中町府中町大須２－１－１]]></description>
+				<Point>
+					<coordinates>132.4999746,34.3943731,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン三原</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>広島県三原市城町２－１３－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 広島県三原市城町２－１３－１]]></description>
+				<Point>
+					<coordinates>133.0872248,34.3991334,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン広島祇園</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>広島県広島市安佐南区祇園３－２－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 広島県広島市安佐南区祇園３－２－１]]></description>
+				<address>広島県広島市安佐南区祇園３－２－１</address>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>38-山口県-0.csv</name>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス下関</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>山口県下関市ゆめタウン１－１ゆめタウン長府内</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 山口県下関市ゆめタウン１－１ゆめタウン長府内]]></description>
+				<Point>
+					<coordinates>131.0127757,34.0301968,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス山口</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>山口県山口市大内長野５８１ザ・ビッグ大内２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 山口県山口市大内長野５８１ザ・ビッグ大内２Ｆ]]></description>
+				<address>山口県山口市大内長野５８１ザ・ビッグ大内２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>フジグラン宇部</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>山口県宇部市明神町３－１－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 山口県宇部市明神町３－１－１]]></description>
+				<address>山口県宇部市明神町３－１－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>西友ザ・モール周南</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>山口県下松市中央町２１－３</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 山口県下松市中央町２１－３]]></description>
+				<address>山口県下松市中央町２１－３</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>てくもぴあ山口店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>山口県山口市大内御堀１３０２－１ゆめタウン山口２階</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 山口県山口市大内御堀１３０２－１ゆめタウン山口２階]]></description>
+				<address>山口県山口市大内御堀１３０２－１ゆめタウン山口２階</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>てくもぴあ宇部店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>山口県宇部市大字妻崎開作４１１ゆめタウン宇部２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 山口県宇部市大字妻崎開作４１１ゆめタウン宇部２Ｆ]]></description>
+				<address>山口県宇部市大字妻崎開作４１１ゆめタウン宇部２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ふぇすたらんど下松</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>山口県下松市南花岡六丁目８番１号サンリブ下松店内</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 山口県下松市南花岡六丁目８番１号サンリブ下松店内]]></description>
+				<Point>
+					<coordinates>131.8654849,34.0306232,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー光</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>山口県光市浅江字木園１７５６－１ イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 山口県光市浅江字木園１７５６－１ イオン２Ｆ]]></description>
+				<Point>
+					<coordinates>131.9278314,33.9790769,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー防府</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>山口県防府市中央町１－３イオン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 山口県防府市中央町１－３イオン３Ｆ]]></description>
+				<address>山口県防府市中央町１－３イオン３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン防府</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>山口県防府市中央町１－３</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 山口県防府市中央町１－３]]></description>
+				<address>山口県防府市中央町１－３</address>
+			</Placemark>
+		</Folder>
+		<Style id='icon-960-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

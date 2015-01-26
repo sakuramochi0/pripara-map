@@ -1,0 +1,938 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>プリパラが遊べるお店 三重県/滋賀県/京都府</name>
+		<description><![CDATA[『プリパラ』公式ページの「遊べるお店」(http://pripara.jp/shop/)にあるデータをプロットしたものです。お店と住所の一覧だけでは探しにくかったので作りました。他の都道府県の地図は、 http://sakuramochi.mydns.jp/pripara/map をご覧ください。]]></description>
+		<Folder>
+			<name>23-三重県-0.csv</name>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス四日市</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>三重県四日市市泊小柳町４－５ イオンタウン四日市泊</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 三重県四日市市泊小柳町４－５ イオンタウン四日市泊]]></description>
+				<Point>
+					<coordinates>136.6013649,34.9393289,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス津</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>三重県津市藤方９８５－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 三重県津市藤方９８５－１]]></description>
+				<address>三重県津市藤方９８５－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>セガワールド久居</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>三重県津市久居明神町字風早２５３４－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 三重県津市久居明神町字風早２５３４－１]]></description>
+				<Point>
+					<coordinates>136.4616823,34.6848068,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ドナリアコットサンバレー店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>三重県津市高茶屋小森町１４５サンバレー２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 三重県津市高茶屋小森町１４５サンバレー２Ｆ]]></description>
+				<address>三重県津市高茶屋小森町１４５サンバレー２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ＮＩＣＯＰＡイオン津店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>三重県津市桜橋３－４４６イオン津店２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 三重県津市桜橋３－４４６イオン津店２Ｆ]]></description>
+				<address>三重県津市桜橋３－４４６イオン津店２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ＮＩＣＯＰＡイオン伊勢店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>三重県伊勢市楠部町乙１６０イオン伊勢店</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 三重県伊勢市楠部町乙１６０イオン伊勢店]]></description>
+				<address>三重県伊勢市楠部町乙１６０イオン伊勢店</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ＮＩＣＯＰＡ四日市北店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>三重県四日市市富州原町２－４０イオン四日市北店</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 三重県四日市市富州原町２－４０イオン四日市北店]]></description>
+				<address>三重県四日市市富州原町２－４０イオン四日市北店</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>四日市アミューズメントパーク</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>三重県四日市市安島１－３－３１ララスクエア５Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 三重県四日市市安島１－３－３１ララスクエア５Ｆ]]></description>
+				<address>三重県四日市市安島１－３－３１ララスクエア５Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ピアゴ嬉野店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>三重県松阪市嬉野中川新町４丁目２０５番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 三重県松阪市嬉野中川新町４丁目２０５番地]]></description>
+				<address>三重県松阪市嬉野中川新町４丁目２０５番地</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ピアゴ上地　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>三重県伊勢市上地町字 川西３１１８番地１ </value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 三重県伊勢市上地町字 川西３１１８番地１ ]]></description>
+				<Point>
+					<coordinates>136.6573706,34.5010207,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ピアゴ阿倉川　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>三重県四日市市阿倉川町１５番２７号</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 三重県四日市市阿倉川町１５番２７号]]></description>
+				<address>三重県四日市市阿倉川町１５番２７号</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ鈴鹿　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>三重県鈴鹿市南玉垣町３６２８</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 三重県鈴鹿市南玉垣町３６２８]]></description>
+				<address>三重県鈴鹿市南玉垣町３６２８</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ名張　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>三重県名張市下比奈知黒田３１００番地の１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 三重県名張市下比奈知黒田３１００番地の１]]></description>
+				<Point>
+					<coordinates>136.1252528,34.6292804,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ松阪三雲</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>三重県松阪市市場庄町１２６６番地の１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 三重県松阪市市場庄町１２６６番地の１]]></description>
+				<address>三重県松阪市市場庄町１２６６番地の１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ四日市　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>三重県四日市市安島１丁目３番３１号</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 三重県四日市市安島１丁目３番３１号]]></description>
+				<address>三重県四日市市安島１丁目３番３１号</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ桑名　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>三重県桑名市中央町三丁目２１番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 三重県桑名市中央町三丁目２１番地]]></description>
+				<address>三重県桑名市中央町三丁目２１番地</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ伊賀上野</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>三重県上野市服部町１７８８番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 三重県上野市服部町１７８８番地]]></description>
+				<address>三重県上野市服部町１７８８番地</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>タイトーステーション　イオン明和店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>三重県多気郡明和町中村１２２３</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 三重県多気郡明和町中村１２２３]]></description>
+				<address>三重県多気郡明和町中村１２２３</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピナ鈴鹿店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>三重県鈴鹿市庄野羽山４－２０－１イオンタウン鈴鹿２階</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 三重県鈴鹿市庄野羽山４－２０－１イオンタウン鈴鹿２階]]></description>
+				<address>三重県鈴鹿市庄野羽山４－２０－１イオンタウン鈴鹿２階</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー阿児</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>三重県志摩市阿児町鵜方３２１５イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 三重県志摩市阿児町鵜方３２１５イオン２Ｆ]]></description>
+				<address>三重県志摩市阿児町鵜方３２１５イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー伊賀上野</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>三重県伊賀市上野茅町２５１９イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 三重県伊賀市上野茅町２５１９イオン２Ｆ]]></description>
+				<address>三重県伊賀市上野茅町２５１９イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー伊勢ララパーク</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>三重県伊勢市小木町曽弥５３８イオンタウン伊勢ララパーク２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 三重県伊勢市小木町曽弥５３８イオンタウン伊勢ララパーク２Ｆ]]></description>
+				<Point>
+					<coordinates>136.7225693,34.5065589,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー四日市尾平</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>三重県四日市市尾平町字天王川原１８０５ イオン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 三重県四日市市尾平町字天王川原１８０５ イオン３Ｆ]]></description>
+				<Point>
+					<coordinates>136.5911388,34.9772916,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー四日市北</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>三重県四日市市富州原町２－４０ イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 三重県四日市市富州原町２－４０ イオン２Ｆ]]></description>
+				<address>三重県四日市市富州原町２－４０ イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー松阪</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>三重県松阪市船江町１３９２－２７ マーム３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 三重県松阪市船江町１３９２－２７ マーム３Ｆ]]></description>
+				<Point>
+					<coordinates>136.523581,34.5941277,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー津城山</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>三重県津市久居小野辺町１１３０－７イオンタウン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 三重県津市久居小野辺町１１３０－７イオンタウン２Ｆ]]></description>
+				<address>三重県津市久居小野辺町１１３０－７イオンタウン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー東員</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>三重県員弁郡東員町長深字築田５１０番地１イオン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 三重県員弁郡東員町長深字築田５１０番地１イオン３Ｆ]]></description>
+				<address>三重県員弁郡東員町長深字築田５１０番地１イオン３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー明和</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>三重県多気郡明和町中村長波賀１２２３番地イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 三重県多気郡明和町中村長波賀１２２３番地イオン２Ｆ]]></description>
+				<address>三重県多気郡明和町中村長波賀１２２３番地イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー鈴鹿</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>三重県鈴鹿市庄野羽山４－１－２イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 三重県鈴鹿市庄野羽山４－１－２イオン２Ｆ]]></description>
+				<address>三重県鈴鹿市庄野羽山４－１－２イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン伊勢</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>三重県伊勢市楠部町乙１６０－２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 三重県伊勢市楠部町乙１６０－２]]></description>
+				<address>三重県伊勢市楠部町乙１６０－２</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン四日市尾平</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>三重県四日市市尾平町字天王川原１８０５</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 三重県四日市市尾平町字天王川原１８０５]]></description>
+				<Point>
+					<coordinates>136.5914928,34.9774411,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン鈴鹿</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>三重県鈴鹿市庄野羽山４－１－２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 三重県鈴鹿市庄野羽山４－１－２]]></description>
+				<address>三重県鈴鹿市庄野羽山４－１－２</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン四日市北</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>三重県四日市市富州原町２－４０</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 三重県四日市市富州原町２－４０]]></description>
+				<Point>
+					<coordinates>136.6574638,35.0076936,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン明和</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>三重県多気郡明和町中村１２２３</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 三重県多気郡明和町中村１２２３]]></description>
+				<address>三重県多気郡明和町中村１２２３</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アル・プラザ醍醐</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: ]]></description>
+				<Point>
+					<coordinates>135.81115799999998,34.950846,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>24-滋賀県-0.csv</name>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アル・プラザ水口</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>滋賀県甲賀市水口町本綾野５６６－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 滋賀県甲賀市水口町本綾野５６６－１]]></description>
+				<address>滋賀県甲賀市水口町本綾野５６６－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ビバシティ平和堂</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>滋賀県彦根市竹ケ鼻町４３－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 滋賀県彦根市竹ケ鼻町４３－１]]></description>
+				<address>滋賀県彦根市竹ケ鼻町４３－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アル・プラザ草津</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>滋賀県草津市西渋川１－２３－３０</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 滋賀県草津市西渋川１－２３－３０]]></description>
+				<address>滋賀県草津市西渋川１－２３－３０</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス大津</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>滋賀県大津市萱野浦２５－３０</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 滋賀県大津市萱野浦２５－３０]]></description>
+				<address>滋賀県大津市萱野浦２５－３０</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス彦根</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>滋賀県彦根市小泉町３１－１ ビバシティ内</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 滋賀県彦根市小泉町３１－１ ビバシティ内]]></description>
+				<address>滋賀県彦根市小泉町３１－１ ビバシティ内</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>セガワールド草津</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>滋賀県草津市西渋川一丁目２３番２３号 ＳＡＲＡ新棟２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 滋賀県草津市西渋川一丁目２３番２３号 ＳＡＲＡ新棟２Ｆ]]></description>
+				<address>滋賀県草津市西渋川一丁目２３番２３号 ＳＡＲＡ新棟２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>セガワールド甲西</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>滋賀県湖南市夏見二ツ橋 ３５６－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 滋賀県湖南市夏見二ツ橋 ３５６－１]]></description>
+				<Point>
+					<coordinates>136.0971788,34.9948633,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ゲームランド草津</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>滋賀県草津市新浜町３００イオンモール草津３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 滋賀県草津市新浜町３００イオンモール草津３Ｆ]]></description>
+				<address>滋賀県草津市新浜町３００イオンモール草津３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>タイトーＦステーション　イオン近江八幡店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>滋賀県近江八幡市鷹飼町南３丁目７番地 イオン近江八幡２番街１階</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 滋賀県近江八幡市鷹飼町南３丁目７番地 イオン近江八幡２番街１階]]></description>
+				<address>滋賀県近江八幡市鷹飼町南３丁目７番地 イオン近江八幡２番街１階</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー近江八幡</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>滋賀県近江八幡市鷹飼町南３丁目７番イオン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 滋賀県近江八幡市鷹飼町南３丁目７番イオン３Ｆ]]></description>
+				<address>滋賀県近江八幡市鷹飼町南３丁目７番イオン３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー西大津</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>滋賀県大津市皇子が丘３－１１－１イオン４Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 滋賀県大津市皇子が丘３－１１－１イオン４Ｆ]]></description>
+				<address>滋賀県大津市皇子が丘３－１１－１イオン４Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー草津</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>滋賀県草津市新浜町３００イオン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 滋賀県草津市新浜町３００イオン３Ｆ]]></description>
+				<address>滋賀県草津市新浜町３００イオン３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー長浜</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>滋賀県長浜市山階町２７１－１イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 滋賀県長浜市山階町２７１－１イオン２Ｆ]]></description>
+				<address>滋賀県長浜市山階町２７１－１イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン草津</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>滋賀県草津市新浜町３００</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 滋賀県草津市新浜町３００]]></description>
+				<address>滋賀県草津市新浜町３００</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>スーパースポーツゼビオ</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: ]]></description>
+				<Point>
+					<coordinates>135.9174759,34.9977269,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>25-京都府-0.csv</name>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アル・プラザ亀岡</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>京都府亀岡市篠町野条上又１１－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 京都府亀岡市篠町野条上又１１－１]]></description>
+				<address>京都府亀岡市篠町野条上又１１－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アル・プラザ城陽</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>京都府城陽市富野荒見田１１２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 京都府城陽市富野荒見田１１２]]></description>
+				<address>京都府城陽市富野荒見田１１２</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アル・プラザ京田辺</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>京都府京田辺市田辺中央５－２－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 京都府京田辺市田辺中央５－２－１]]></description>
+				<address>京都府京田辺市田辺中央５－２－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス向日市</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>京都府向日市鶏冠井町西金村５ むこうしステーションパーク内</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 京都府向日市鶏冠井町西金村５ むこうしステーションパーク内]]></description>
+				<address>京都府向日市鶏冠井町西金村５ むこうしステーションパーク内</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ライフ太秦</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>京都府京都市右京区太秦安井池田町６</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 京都府京都市右京区太秦安井池田町６]]></description>
+				<address>京都府京都市右京区太秦安井池田町６</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イズミヤ八幡</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>京都府八幡市八幡一ノ坪２３－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 京都府八幡市八幡一ノ坪２３－１]]></description>
+				<address>京都府八幡市八幡一ノ坪２３－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>キデイランド京都洛北</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>京都府京都市左京区高野西開町３６番地カナート洛北</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 京都府京都市左京区高野西開町３６番地カナート洛北]]></description>
+				<address>京都府京都市左京区高野西開町３６番地カナート洛北</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>セガワールド六地蔵</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>京都府京都市伏見区桃山町山ノ下３２ 京都ショッピングセンタービルＡＭ棟２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 京都府京都市伏見区桃山町山ノ下３２ 京都ショッピングセンタービルＡＭ棟２Ｆ]]></description>
+				<address>京都府京都市伏見区桃山町山ノ下３２ 京都ショッピングセンタービルＡＭ棟２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ＴＨＥ　３ＲＤ　ＰＬＡＮＥＴ　ＢｉＶｉ京都二条店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>京都府京都市中京区西ノ京栂尾町１－６</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 京都府京都市中京区西ノ京栂尾町１－６]]></description>
+				<Point>
+					<coordinates>135.7412763,35.0103652,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>大丸京都店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>京都府京都市下京区四条通高倉西入立売西町 ７９番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 京都府京都市下京区四条通高倉西入立売西町 ７９番地]]></description>
+				<Point>
+					<coordinates>135.7622005,35.0041982,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アミパラ京都南店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>京都府向日市森本町佃15-7-2Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 京都府向日市森本町佃15-7-2Ｆ]]></description>
+				<address>京都府向日市森本町佃15-7-2Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>レインボーランド長岡店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>京都府長岡京市開田４丁目７番１号イズミヤ長岡店２階</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 京都府長岡京市開田４丁目７番１号イズミヤ長岡店２階]]></description>
+				<address>京都府長岡京市開田４丁目７番１号イズミヤ長岡店２階</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>レインボーランド六地蔵店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>京都府京都市伏見区桃山町西尾１２番地１イズミヤ六地蔵店２階</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 京都府京都市伏見区桃山町西尾１２番地１イズミヤ六地蔵店２階]]></description>
+				<address>京都府京都市伏見区桃山町西尾１２番地１イズミヤ六地蔵店２階</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>レインボーランド伏見店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>京都府京都市伏見区深草出羽屋敷町２３番地イズミヤ伏見店３階</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 京都府京都市伏見区深草出羽屋敷町２３番地イズミヤ伏見店３階]]></description>
+				<address>京都府京都市伏見区深草出羽屋敷町２３番地イズミヤ伏見店３階</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ精華台　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>京都府相楽郡精華町精華台９丁目２番地４</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 京都府相楽郡精華町精華台９丁目２番地４]]></description>
+				<Point>
+					<coordinates>135.7707551,34.7466757,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>プラサカプコン京都</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>京都府京都市右京区西院追分町２５－１イオンモール京都ハナ３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 京都府京都市右京区西院追分町２５－１イオンモール京都ハナ３Ｆ]]></description>
+				<Point>
+					<coordinates>135.7272023,34.9972951,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー六地蔵</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>京都府宇治市六地蔵奈良町６７－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 京都府宇治市六地蔵奈良町６７－１]]></description>
+				<Point>
+					<coordinates>135.7980225,34.9343393,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー久御山</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>京都府久世郡久御山町森南大内１５６－１イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 京都府久世郡久御山町森南大内１５６－１イオン２Ｆ]]></description>
+				<Point>
+					<coordinates>135.7466579,34.8933276,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー京都五条</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>京都府京都市右京区西院追分町２５－１イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 京都府京都市右京区西院追分町２５－１イオン２Ｆ]]></description>
+				<address>京都府京都市右京区西院追分町２５－１イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー高の原</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>京都府木津川市相楽台１－１－１ イオンＳＣ４Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 京都府木津川市相楽台１－１－１ イオンＳＣ４Ｆ]]></description>
+				<address>京都府木津川市相楽台１－１－１ イオンＳＣ４Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー福知山</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>京都府福知山市岩井７９－８イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 京都府福知山市岩井７９－８イオン２Ｆ]]></description>
+				<address>京都府福知山市岩井７９－８イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー洛南</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>京都府京都市南区吉祥院御池町３１イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 京都府京都市南区吉祥院御池町３１イオン２Ｆ]]></description>
+				<Point>
+					<coordinates>135.7364307,34.9755328,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ビックカメラＪＲ京都駅</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>京都府京都市下京区東塩小路町９２７トイズコーナー</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 京都府京都市下京区東塩小路町９２７トイズコーナー]]></description>
+				<Point>
+					<coordinates>135.7555938,34.9858917,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン伏見</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>京都府京都市伏見区御堂前町６１６</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 京都府京都市伏見区御堂前町６１６]]></description>
+				<address>京都府京都市伏見区御堂前町６１６</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン洛南</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>京都府京都市南区吉祥院御池町３１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 京都府京都市南区吉祥院御池町３１]]></description>
+				<Point>
+					<coordinates>135.7368276,34.9755153,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン京都五条</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>京都府京都市右京区西院追分町２５－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 京都府京都市右京区西院追分町２５－１]]></description>
+				<address>京都府京都市右京区西院追分町２５－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン福知山</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>京都府福知山市岩井７９－８</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 京都府福知山市岩井７９－８]]></description>
+				<address>京都府福知山市岩井７９－８</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン高の原</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>京都府木津川市相楽台１－１－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 京都府木津川市相楽台１－１－１]]></description>
+				<address>京都府木津川市相楽台１－１－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>京都ヨドバシ</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>京都府京都市下京区烏丸通り七条下ル 東塩小路町５９０－２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 京都府京都市下京区烏丸通り七条下ル 東塩小路町５９０－２]]></description>
+				<Point>
+					<coordinates>135.7589792,34.9882052,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-960-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

@@ -1,0 +1,1258 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>プリパラが遊べるお店 千葉県</name>
+		<description><![CDATA[『プリパラ』公式ページの「遊べるお店」(http://pripara.jp/shop/)にあるデータをプロットしたものです。お店と住所の一覧だけでは探しにくかったので作りました。他の都道府県の地図は、 http://sakuramochi.mydns.jp/pripara/map をご覧ください。]]></description>
+		<Folder>
+			<name>11-千葉県-0.csv</name>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス市川</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県市川市鬼高１－１－１ニッケコルトンプラザイースト館２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県市川市鬼高１－１－１ニッケコルトンプラザイースト館２Ｆ]]></description>
+				<Point>
+					<coordinates>139.9336611,35.7160502,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス市原</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県市原市八幡１０４９－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県市原市八幡１０４９－１]]></description>
+				<Point>
+					<coordinates>140.1137278,35.5370187,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス柏</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県柏市松ケ崎１１８１－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県柏市松ケ崎１１８１－１]]></description>
+				<address>千葉県柏市松ケ崎１１８１－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス成田</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県成田市飯仲９－４</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県成田市飯仲９－４]]></description>
+				<address>千葉県成田市飯仲９－４</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス千葉長沼</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県千葉市稲毛区長沼町３３０－５０</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県千葉市稲毛区長沼町３３０－５０]]></description>
+				<address>千葉県千葉市稲毛区長沼町３３０－５０</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス野田</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県野田市中根 新田字鹿島原 ５７－１パル・ノア２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県野田市中根 新田字鹿島原 ５７－１パル・ノア２Ｆ]]></description>
+				<Point>
+					<coordinates>139.8763598,35.9497715,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス新鎌ヶ谷</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県鎌ケ谷市新鎌ケ谷２－１２－１アクロスモール新鎌ヶ谷２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県鎌ケ谷市新鎌ケ谷２－１２－１アクロスモール新鎌ヶ谷２Ｆ]]></description>
+				<address>千葉県鎌ケ谷市新鎌ケ谷２－１２－１アクロスモール新鎌ヶ谷２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モリシア津田沼３Ｆ</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県習志野市谷津１－１６－１モリシア津田沼３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県習志野市谷津１－１６－１モリシア津田沼３Ｆ]]></description>
+				<Point>
+					<coordinates>140.0191986,35.6895425,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>西友常盤平</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県松戸市常盤平３－１１－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県松戸市常盤平３－１１－１]]></description>
+				<address>千葉県松戸市常盤平３－１１－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ＪＯＹＦＵＬ－２千葉ニュータウン店　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県印西市草深１９２１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県印西市草深１９２１]]></description>
+				<Point>
+					<coordinates>140.1564764,35.8071979,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ダイエー新松戸</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県松戸市新松戸３－２－２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県松戸市新松戸３－２－２]]></description>
+				<address>千葉県松戸市新松戸３－２－２</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ダイエー新浦安</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県浦安市入船１－４－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県浦安市入船１－４－１]]></description>
+				<address>千葉県浦安市入船１－４－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ダイエー南行徳</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県市川市南行徳２－２０－２５</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県市川市南行徳２－２０－２５]]></description>
+				<address>千葉県市川市南行徳２－２０－２５</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>サンファンタジー千城台</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県千葉市若葉区千城台北３－２１－１ラパーク千城台３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県千葉市若葉区千城台北３－２１－１ラパーク千城台３Ｆ]]></description>
+				<address>千葉県千葉市若葉区千城台北３－２１－１ラパーク千城台３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>セガワールド旭</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県旭市 二 ３１５０－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県旭市 二 ３１５０－１]]></description>
+				<Point>
+					<coordinates>140.6395119,35.7234953,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>セガ幕張</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県千葉市美浜区ひび野１－８メッセ・アミューズ・モール１階</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県千葉市美浜区ひび野１－８メッセ・アミューズ・モール１階]]></description>
+				<Point>
+					<coordinates>140.0426565,35.6499712,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ＳＥＧＡＡＲＥＮＡＳＯＧＡ</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県千葉市中央区川崎町５１－１ ハーバーシティ蘇我フェスティバルウォークアミューズメント棟１Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県千葉市中央区川崎町５１－１ ハーバーシティ蘇我フェスティバルウォークアミューズメント棟１Ｆ]]></description>
+				<address>千葉県千葉市中央区川崎町５１－１ ハーバーシティ蘇我フェスティバルウォークアミューズメント棟１Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>セガ我孫子</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県我孫子市柴崎字天王台 ４７－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県我孫子市柴崎字天王台 ４７－１]]></description>
+				<Point>
+					<coordinates>140.0300596,35.8782407,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ヨドバシカメラ千葉</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県千葉市中央区富士見２－３－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県千葉市中央区富士見２－３－１]]></description>
+				<Point>
+					<coordinates>140.1166091,35.61157180000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>にこぱアクロスモール新鎌ヶ谷店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県鎌ヶ谷市初富９２８番地アクロスモール新鎌ヶ谷２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県鎌ヶ谷市初富９２８番地アクロスモール新鎌ヶ谷２Ｆ]]></description>
+				<Point>
+					<coordinates>140.0015579,35.7810793,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ニコパマリンピア店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県千葉市美浜区高洲３－１３－１マリンピア４階</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県千葉市美浜区高洲３－１３－１マリンピア４階]]></description>
+				<address>千葉県千葉市美浜区高洲３－１３－１マリンピア４階</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ハローズガーデン市原店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県市原市青柳北１－１アピタ市原店２階</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県市原市青柳北１－１アピタ市原店２階]]></description>
+				<address>千葉県市原市青柳北１－１アピタ市原店２階</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>こころっこ君津店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県君津市中野５－１７－１ダイエー君津店内３Ｆプレビプレイランドコーナーこころっこ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県君津市中野５－１７－１ダイエー君津店内３Ｆプレビプレイランドコーナーこころっこ]]></description>
+				<Point>
+					<coordinates>139.8841597,35.3343853,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>こころっこ新浦安店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県浦安市明海４－１－１イトーヨーカドー新浦安店内３階プレビプレイランドコーナーこころっこ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県浦安市明海４－１－１イトーヨーカドー新浦安店内３階プレビプレイランドコーナーこころっこ]]></description>
+				<Point>
+					<coordinates>139.9227555,35.642995,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>こころっこＪ’Ｓ横芝店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県山武郡横芝光町横芝２１２２サビア横芝店内プレビプレイランドコーナーこころっこＪ’ｓ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県山武郡横芝光町横芝２１２２サビア横芝店内プレビプレイランドコーナーこころっこＪ’ｓ]]></description>
+				<Point>
+					<coordinates>140.4861314,35.659889,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>マリンガーデンららぽーと船橋</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県船橋市浜町２丁目１番１号ららぽーとＴＯＫＹＯ－ＢＡＹ西館３階</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県船橋市浜町２丁目１番１号ららぽーとＴＯＫＹＯ－ＢＡＹ西館３階]]></description>
+				<Point>
+					<coordinates>139.9906325,35.68604680000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>テクモピア公津の杜店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県成田市公津の杜４－５－３成田ユアエルム３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県成田市公津の杜４－５－３成田ユアエルム３Ｆ]]></description>
+				<address>千葉県成田市公津の杜４－５－３成田ユアエルム３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ＴＨＥ　３ＲＤ　ＰＬＡＮＥＴフレスポ稲毛店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県千葉市稲毛区長沼原町７３１－１７</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県千葉市稲毛区長沼原町７３１－１７]]></description>
+				<address>千葉県千葉市稲毛区長沼原町７３１－１７</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ木更津　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県木更津市ほたるの４－２－４８</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県木更津市ほたるの４－２－４８]]></description>
+				<address>千葉県木更津市ほたるの４－２－４８</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ市原　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県市原市青柳北１－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県市原市青柳北１－１]]></description>
+				<Point>
+					<coordinates>140.066041,35.5144537,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ君津　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県君津市久保１－１－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県君津市久保１－１－１]]></description>
+				<Point>
+					<coordinates>139.8986978,35.3322559,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>野田ホビー　ノア店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県野田市中根３６ショッピングセンターノア３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県野田市中根３６ショッピングセンターノア３Ｆ]]></description>
+				<Point>
+					<coordinates>139.8764027,35.9477998,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>プラサカプコン富津</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県富津市青木一丁目５番地１イオンモール富津２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県富津市青木一丁目５番地１イオンモール富津２Ｆ]]></description>
+				<address>千葉県富津市青木一丁目５番地１イオンモール富津２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>プラサカプコン成田</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県成田市ウイング土屋２４イオンモール成田２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県成田市ウイング土屋２４イオンモール成田２Ｆ]]></description>
+				<address>千葉県成田市ウイング土屋２４イオンモール成田２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>プラサカプコン千葉ニュータウン</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県印西市中央北３－３イオンモール千葉ニュータウンシネマスポーツ棟２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県印西市中央北３－３イオンモール千葉ニュータウンシネマスポーツ棟２Ｆ]]></description>
+				<Point>
+					<coordinates>140.1110929,35.8010812,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>プラサカプコンちはら台</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県市原市ちはら台西３－４ショッピングモールｕｎｉｍｏちはら台２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県市原市ちはら台西３－４ショッピングモールｕｎｉｍｏちはら台２Ｆ]]></description>
+				<Point>
+					<coordinates>140.1714182,35.5278667,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ビバ・サーカス茂原店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県茂原市高師１７３５茂原ショッピングプラザアスモ２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県茂原市高師１７３５茂原ショッピングプラザアスモ２Ｆ]]></description>
+				<address>千葉県茂原市高師１７３５茂原ショッピングプラザアスモ２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>タイトーステーション　新柏ＰＡＺ店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県柏市名戸ケ谷字中久保８８８番１号ＰＡＺ新柏２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県柏市名戸ケ谷字中久保８８８番１号ＰＡＺ新柏２Ｆ]]></description>
+				<Point>
+					<coordinates>139.9803899,35.8429619,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>タイトーステーション　茂原アスモ店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県茂原市高師１７３５茂原ショッピングプラザアスモ２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県茂原市高師１７３５茂原ショッピングプラザアスモ２Ｆ]]></description>
+				<address>千葉県茂原市高師１７３５茂原ショッピングプラザアスモ２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>タイトーステーション　旭サンモール店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県旭市イ－２６７６－１サンモール３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県旭市イ－２６７６－１サンモール３Ｆ]]></description>
+				<address>千葉県旭市イ－２６７６－１サンモール３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>タイトーＦステーション　イオン市川妙典店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県市川市妙典４丁目１番１号イオン市川妙典店２番街２階</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県市川市妙典４丁目１番１号イオン市川妙典店２番街２階]]></description>
+				<address>千葉県市川市妙典４丁目１番１号イオン市川妙典店２番街２階</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>キャッツアイ八千代店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県八千代市吉橋１８５１番地ｉｓｍ緑が丘内</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県八千代市吉橋１８５１番地ｉｓｍ緑が丘内]]></description>
+				<Point>
+					<coordinates>140.0725603,35.7336033,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー津田沼</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県習志野市津田沼１－１０－３０</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県習志野市津田沼１－１０－３０]]></description>
+				<Point>
+					<coordinates>140.0239563,35.6897298,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー姉崎</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県市原市姉崎６４５－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県市原市姉崎６４５－１]]></description>
+				<address>千葉県市原市姉崎６４５－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー松戸</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県松戸市松戸１１４９</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県松戸市松戸１１４９]]></description>
+				<address>千葉県松戸市松戸１１４９</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー船橋</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県船橋市本町７－６－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県船橋市本町７－６－１]]></description>
+				<address>千葉県船橋市本町７－６－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー八柱</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県松戸市日暮１－１５－８</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県松戸市日暮１－１５－８]]></description>
+				<address>千葉県松戸市日暮１－１５－８</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー我孫子南口</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県我孫子市本町３－２－２８</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県我孫子市本町３－２－２８]]></description>
+				<address>千葉県我孫子市本町３－２－２８</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー流山</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県流山市流山９－８００－２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県流山市流山９－８００－２]]></description>
+				<address>千葉県流山市流山９－８００－２</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー我孫子</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県我孫子市我孫子４－１１－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県我孫子市我孫子４－１１－１]]></description>
+				<address>千葉県我孫子市我孫子４－１１－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー東習志野</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県習志野市東習志野７－３－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県習志野市東習志野７－３－１]]></description>
+				<address>千葉県習志野市東習志野７－３－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー幕張</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県千葉市花見川区幕張町４－４１７－２５</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県千葉市花見川区幕張町４－４１７－２５]]></description>
+				<address>千葉県千葉市花見川区幕張町４－４１７－２５</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー成田</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県成田市公津の杜４－５－３</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県成田市公津の杜４－５－３]]></description>
+				<address>千葉県成田市公津の杜４－５－３</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー新浦安</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県浦安市明海４－１－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県浦安市明海４－１－１]]></description>
+				<address>千葉県浦安市明海４－１－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー八千代</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県八千代市村上４００１－４</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県八千代市村上４００１－４]]></description>
+				<address>千葉県八千代市村上４００１－４</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー四街道</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県四街道市四街道都市核北土地区画整理事業地内５街区</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県四街道市四街道都市核北土地区画整理事業地内５街区]]></description>
+				<Point>
+					<coordinates>140.1651582,35.6678312,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドーアリオ蘇我</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県千葉市中央区川崎町５２－７</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県千葉市中央区川崎町５２－７]]></description>
+				<address>千葉県千葉市中央区川崎町５２－７</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ソユープレイランドソピア幕張店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県千葉市花見川区幕張町四丁目４１７－２５イトーヨーカドー幕張店２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県千葉市花見川区幕張町四丁目４１７－２５イトーヨーカドー幕張店２Ｆ]]></description>
+				<address>千葉県千葉市花見川区幕張町四丁目４１７－２５イトーヨーカドー幕張店２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ＥＧＧＳ　ＰＯＲＴ船橋店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県船橋市浜町二丁目１番１号ららぽーとＴＯＫＹＯ－ＢＡＹ北館１階</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県船橋市浜町二丁目１番１号ららぽーとＴＯＫＹＯ－ＢＡＹ北館１階]]></description>
+				<address>千葉県船橋市浜町二丁目１番１号ららぽーとＴＯＫＹＯ－ＢＡＹ北館１階</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ゲオ富里店　　　　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県富里市七栄５７５番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県富里市七栄５７５番地]]></description>
+				<Point>
+					<coordinates>140.3152049,35.7412344,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドーアリオ市原</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県市原市更級４-３-２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県市原市更級４-３-２]]></description>
+				<Point>
+					<coordinates>140.1016161,35.508294,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジーイオン成田</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県成田市ウイング土屋２４番地イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県成田市ウイング土屋２４番地イオン２Ｆ]]></description>
+				<address>千葉県成田市ウイング土屋２４番地イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジーおゆみ野</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県千葉市緑区おゆみ野南５丁目３７－１イオンタウン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県千葉市緑区おゆみ野南５丁目３７－１イオンタウン２Ｆ]]></description>
+				<address>千葉県千葉市緑区おゆみ野南５丁目３７－１イオンタウン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジーノア</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県野田市中根３６－１イオン１Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県野田市中根３６－１イオン１Ｆ]]></description>
+				<address>千葉県野田市中根３６－１イオン１Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー鎌ヶ谷</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県鎌ヶ谷市新鎌ヶ谷２丁目７番１号イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県鎌ヶ谷市新鎌ヶ谷２丁目７番１号イオン２Ｆ]]></description>
+				<address>千葉県鎌ヶ谷市新鎌ヶ谷２丁目７番１号イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー鎌取</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県千葉市緑区おゆみ野３丁目１６番地イオン４Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県千葉市緑区おゆみ野３丁目１６番地イオン４Ｆ]]></description>
+				<Point>
+					<coordinates>140.177833,35.5613621,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー館山</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県館山市八幡５４５－１イオン１Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県館山市八幡５４５－１イオン１Ｆ]]></description>
+				<address>千葉県館山市八幡５４５－１イオン１Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー市川妙典３Ｆ</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県市川市妙典５－３－１イオン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県市川市妙典５－３－１イオン３Ｆ]]></description>
+				<address>千葉県市川市妙典５－３－１イオン３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー千葉ニュ－タウン</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県印西市中央北３丁目１番１イオン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県印西市中央北３丁目１番１イオン３Ｆ]]></description>
+				<address>千葉県印西市中央北３丁目１番１イオン３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー船橋</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県船橋市山手１丁目１番地８号イオン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県船橋市山手１丁目１番地８号イオン３Ｆ]]></description>
+				<address>千葉県船橋市山手１丁目１番地８号イオン３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー銚子</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県銚子市三崎町２丁目２６６０－１イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県銚子市三崎町２丁目２６６０－１イオン２Ｆ]]></description>
+				<address>千葉県銚子市三崎町２丁目２６６０－１イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー津田沼</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県習志野市津田沼１丁目２３番１号イオン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県習志野市津田沼１丁目２３番１号イオン３Ｆ]]></description>
+				<address>千葉県習志野市津田沼１丁目２３番１号イオン３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー東習志野</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県習志野市東習志野６丁目７－８イオンタウン１Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県習志野市東習志野６丁目７－８イオンタウン１Ｆ]]></description>
+				<address>千葉県習志野市東習志野６丁目７－８イオンタウン１Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー柏</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県柏市豊町２丁目５番２５号イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県柏市豊町２丁目５番２５号イオン２Ｆ]]></description>
+				<address>千葉県柏市豊町２丁目５番２５号イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー八街</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県八街市文違３０１ イオン１Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県八街市文違３０１ イオン１Ｆ]]></description>
+				<address>千葉県八街市文違３０１ イオン１Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー八千代緑が丘</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県八千代市緑が丘２丁目１－３イオン４Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県八千代市緑が丘２丁目１－３イオン４Ｆ]]></description>
+				<address>千葉県八千代市緑が丘２丁目１－３イオン４Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー幕張新都心</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県千葉市美浜区豊砂１－５イオンモール（ファミリーモール）２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県千葉市美浜区豊砂１－５イオンモール（ファミリーモール）２Ｆ]]></description>
+				<address>千葉県千葉市美浜区豊砂１－５イオンモール（ファミリーモール）２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>パロ市川</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県市川市鬼高１－１－１ニッケコルトンプラザ２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県市川市鬼高１－１－１ニッケコルトンプラザ２Ｆ]]></description>
+				<address>千葉県市川市鬼高１－１－１ニッケコルトンプラザ２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ファンキッズ市川</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県市川市鬼高１－１－１ダイエーいちかわコルトンプラザ４Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県市川市鬼高１－１－１ダイエーいちかわコルトンプラザ４Ｆ]]></description>
+				<Point>
+					<coordinates>139.9346267,35.715998,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>らんらんらんどあすみが丘</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県千葉市緑区あすみが丘７丁目１あすみが丘ブランニューモール２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県千葉市緑区あすみが丘７丁目１あすみが丘ブランニューモール２Ｆ]]></description>
+				<address>千葉県千葉市緑区あすみが丘７丁目１あすみが丘ブランニューモール２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>らんらんらんど酒々井</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県印旛郡酒々井町本佐倉４５７－２トライアル酒々井店２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県印旛郡酒々井町本佐倉４５７－２トライアル酒々井店２Ｆ]]></description>
+				<address>千葉県印旛郡酒々井町本佐倉４５７－２トライアル酒々井店２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>らんらんらんど南行徳</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県市川市南行徳２－２０－２５ダイエー南行徳店２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県市川市南行徳２－２０－２５ダイエー南行徳店２Ｆ]]></description>
+				<address>千葉県市川市南行徳２－２０－２５ダイエー南行徳店２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ビックカメラ柏店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県柏市柏市１－１－２０スカイプラザ柏</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県柏市柏市１－１－２０スカイプラザ柏]]></description>
+				<Point>
+					<coordinates>139.9721,35.862227,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン臼井</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県佐倉市王子台１－２３</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県佐倉市王子台１－２３]]></description>
+				<Point>
+					<coordinates>140.1826518,35.7298929,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオンユーカリが丘</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県佐倉市ユ－カリが丘４－１－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県佐倉市ユ－カリが丘４－１－１]]></description>
+				<address>千葉県佐倉市ユ－カリが丘４－１－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオンマリンピア</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県千葉市美浜区高洲３－１３－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県千葉市美浜区高洲３－１３－１]]></description>
+				<address>千葉県千葉市美浜区高洲３－１３－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン幕張</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県千葉市美浜区ひび野１－３</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県千葉市美浜区ひび野１－３]]></description>
+				<address>千葉県千葉市美浜区ひび野１－３</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン稲毛</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県千葉市稲毛区小仲台１－４－２０</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県千葉市稲毛区小仲台１－４－２０]]></description>
+				<address>千葉県千葉市稲毛区小仲台１－４－２０</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン銚子</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県銚子市三崎町２－２６６０－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県銚子市三崎町２－２６６０－１]]></description>
+				<address>千葉県銚子市三崎町２－２６６０－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン柏</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県柏市豊町２－５－２５</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県柏市豊町２－５－２５]]></description>
+				<address>千葉県柏市豊町２－５－２５</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオンイオン成田</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県成田市ウイング土屋２４</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県成田市ウイング土屋２４]]></description>
+				<address>千葉県成田市ウイング土屋２４</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン千葉ニュータウン</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県印西市中央北３－１－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県印西市中央北３－１－１]]></description>
+				<address>千葉県印西市中央北３－１－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン館山</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県館山市八幡５４５－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県館山市八幡５４５－１]]></description>
+				<address>千葉県館山市八幡５４５－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン八千代緑ヶ丘</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県八千代市緑が丘２－１－３</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県八千代市緑が丘２－１－３]]></description>
+				<address>千葉県八千代市緑が丘２－１－３</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン鎌取</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県千葉市緑区おゆみ野３－１６－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県千葉市緑区おゆみ野３－１６－１]]></description>
+				<address>千葉県千葉市緑区おゆみ野３－１６－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン船橋</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県船橋市山手１－１－８</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県船橋市山手１－１－８]]></description>
+				<address>千葉県船橋市山手１－１－８</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオンキッズ津田沼</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県習志野市津田沼１－２３－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県習志野市津田沼１－２３－１]]></description>
+				<address>千葉県習志野市津田沼１－２３－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>MEGAドン・キホーテ ラパーク成東店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value></value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: ]]></description>
+				<Point>
+					<coordinates>140.39828799999998,35.596172,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>SOYU GameField 木更津店（2014年10月18日OPEN予定）</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県木更津市築地1-4 イオンモール木更津２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県木更津市築地1-4 イオンモール木更津２Ｆ]]></description>
+				<address>千葉県木更津市築地1-4 イオンモール木更津２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ダイエー千葉長沼店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県千葉市稲毛区長沼町３３０－５０ダイエー千葉長沼店１Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県千葉市稲毛区長沼町３３０－５０ダイエー千葉長沼店１Ｆ]]></description>
+				<Point>
+					<coordinates>140.1172144,35.6572312,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス・ベビーザらス 松戸店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県松戸市二ツ木１７８１－２ プチモール二ツ木２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県松戸市二ツ木１７８１－２ プチモール二ツ木２Ｆ]]></description>
+				<Point>
+					<coordinates>139.9259224,35.8173609,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>そごう千葉店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県千葉市中央区新町１０００そごう千葉店本館６Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県千葉市中央区新町１０００そごう千葉店本館６Ｆ]]></description>
+				<Point>
+					<coordinates>140.1136498,35.6111773,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>11-千葉県-1.csv</name>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン鎌ケ谷</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県鎌ケ谷市新鎌ケ谷２－７－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県鎌ケ谷市新鎌ケ谷２－７－１]]></description>
+				<address>千葉県鎌ケ谷市新鎌ケ谷２－７－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン市川妙典</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県市川市妙典５－３－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県市川市妙典５－３－１]]></description>
+				<address>千葉県市川市妙典５－３－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アドアーズ船橋</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県船橋市本町１－３１－２６セブン船橋</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県船橋市本町１－３１－２６セブン船橋]]></description>
+				<Point>
+					<coordinates>139.984533,35.7006284,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ミスターマックスおゆみの</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>千葉県千葉市おゆみ野中央２－３－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 千葉県千葉市おゆみ野中央２－３－１]]></description>
+				<Point>
+					<coordinates>140.1614475,35.555598800000006,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-960-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

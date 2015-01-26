@@ -1,0 +1,914 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>プリパラが遊べるお店 北海道</name>
+		<description><![CDATA[『プリパラ』公式ページの「遊べるお店」(http://pripara.jp/shop/)にあるデータをプロットしたものです。お店と住所の一覧だけでは探しにくかったので作りました。他の都道府県の地図は、 http://sakuramochi.mydns.jp/pripara/map をご覧ください。]]></description>
+		<Folder>
+			<name>00-北海道-0.csv</name>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス札幌厚別</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道札幌市厚別区厚別西四条２－８－７</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道札幌市厚別区厚別西四条２－８－７]]></description>
+				<Point>
+					<coordinates>141.4564012,43.0511274,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス旭川</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道旭川市永山１２条３－１２２－５５　ウエスタンパワーズ内</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道旭川市永山１２条３－１２２－５５　ウエスタンパワーズ内]]></description>
+				<Point>
+					<coordinates>142.412802,43.7796655,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス苫小牧</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道苫小牧市柳町４－５－３５　ホクレンショップ内</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道苫小牧市柳町４－５－３５　ホクレンショップ内]]></description>
+				<address>北海道苫小牧市柳町４－５－３５　ホクレンショップ内</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらストイザらス・ベビーザらス函館</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道函館市石川町５２－１５　ＣＥＮＴＲＥ　ＭＡＲＵＹＡＭＡ内</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道函館市石川町５２－１５　ＣＥＮＴＲＥ　ＭＡＲＵＹＡＭＡ内]]></description>
+				<address>北海道函館市石川町５２－１５　ＣＥＮＴＲＥ　ＭＡＲＵＹＡＭＡ内</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス帯広音更</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道河東郡音更町木野大通西１７－１　スーパーオーケーセンター音更店内</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道河東郡音更町木野大通西１７－１　スーパーオーケーセンター音更店内]]></description>
+				<address>北海道河東郡音更町木野大通西１７－１　スーパーオーケーセンター音更店内</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス釧路</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道釧路市昭和中央３－３－８</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道釧路市昭和中央３－３－８]]></description>
+				<Point>
+					<coordinates>144.360028,43.0221011,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>西友厚別</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道札幌市厚別区厚別西４条６丁目　</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道札幌市厚別区厚別西４条６丁目　]]></description>
+				<address>北海道札幌市厚別区厚別西４条６丁目　</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>西友手稲</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道札幌市手稲区前田１条１１－３１１－１　</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道札幌市手稲区前田１条１１－３１１－１　]]></description>
+				<Point>
+					<coordinates>141.2454174,43.1205195,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ダイエー東さっぽろ</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道札幌市白石区東札幌３条２－１　</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道札幌市白石区東札幌３条２－１　]]></description>
+				<Point>
+					<coordinates>141.3852794,43.0527137,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ダイエー上磯</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道北斗市七重浜４－４４－１　</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道北斗市七重浜４－４４－１　]]></description>
+				<Point>
+					<coordinates>140.712659,41.8214675,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ダイエー滝川</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道滝川市東町２－２５－３　</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道滝川市東町２－２５－３　]]></description>
+				<address>北海道滝川市東町２－２５－３　</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン旭川西</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道旭川市緑町２３丁目２１６１－３　</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道旭川市緑町２３丁目２１６１－３　]]></description>
+				<Point>
+					<coordinates>142.3265629,43.7939401,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン札幌平岡</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道札幌市清田区平岡三条５－３－１　</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道札幌市清田区平岡三条５－３－１　]]></description>
+				<address>北海道札幌市清田区平岡三条５－３－１　</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン札幌発寒</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道札幌市西区発寒８条１２丁目１－１　</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道札幌市西区発寒８条１２丁目１－１　]]></description>
+				<address>北海道札幌市西区発寒８条１２丁目１－１　</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン苫小牧</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道苫小牧市柳町３－１－２０　</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道苫小牧市柳町３－１－２０　]]></description>
+				<address>北海道苫小牧市柳町３－１－２０　</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン根室</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道根室市常盤町３丁目９番地　</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道根室市常盤町３丁目９番地　]]></description>
+				<address>北海道根室市常盤町３丁目９番地　</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン室蘭</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道室蘭市東町２丁目４番３２号　</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道室蘭市東町２丁目４番３２号　]]></description>
+				<address>北海道室蘭市東町２丁目４番３２号　</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン登別</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道登別市若山町４丁目３３－１　</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道登別市若山町４丁目３３－１　]]></description>
+				<address>北海道登別市若山町４丁目３３－１　</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン静内</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道日高郡新ひだか町静内末広町２丁目２－１　</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道日高郡新ひだか町静内末広町２丁目２－１　]]></description>
+				<address>北海道日高郡新ひだか町静内末広町２丁目２－１　</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン伊達</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道伊達市末永町８－１　</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道伊達市末永町８－１　]]></description>
+				<address>北海道伊達市末永町８－１　</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン永山</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道旭川市永山３条１２丁目２－１１　</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道旭川市永山３条１２丁目２－１１　]]></description>
+				<address>北海道旭川市永山３条１２丁目２－１１　</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン釧路</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道釧路郡釧路町桂木１丁目１番地７　</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道釧路郡釧路町桂木１丁目１番地７　]]></description>
+				<address>北海道釧路郡釧路町桂木１丁目１番地７　</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン江別</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道江別市幸町３５番地　</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道江別市幸町３５番地　]]></description>
+				<address>北海道江別市幸町３５番地　</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン札幌藻岩</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道札幌市南区川沿２条２丁目１－１　</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道札幌市南区川沿２条２丁目１－１　]]></description>
+				<address>北海道札幌市南区川沿２条２丁目１－１　</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン帯広</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道帯広市西４条南２０丁目１　</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道帯広市西４条南２０丁目１　]]></description>
+				<address>北海道帯広市西４条南２０丁目１　</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン旭川春光</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道旭川市春光町１０　</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道旭川市春光町１０　]]></description>
+				<Point>
+					<coordinates>142.3559232,43.7929147,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン千歳</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道千歳市栄町６丁目５１　</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道千歳市栄町６丁目５１　]]></description>
+				<address>北海道千歳市栄町６丁目５１　</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン小樽</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道小樽市築港１１番６号　</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道小樽市築港１１番６号　]]></description>
+				<address>北海道小樽市築港１１番６号　</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン北見</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道北見市北進町１丁目１－１　</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道北見市北進町１丁目１－１　]]></description>
+				<address>北海道北見市北進町１丁目１－１　</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン岩見沢</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道岩見沢市大和４条８丁目１　</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道岩見沢市大和４条８丁目１　]]></description>
+				<address>北海道岩見沢市大和４条８丁目１　</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ヨドバシカメラ札幌</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道札幌市北区北６条西５－１－２２３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道札幌市北区北６条西５－１－２２３Ｆ]]></description>
+				<Point>
+					<coordinates>141.3475799,43.0684548,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>おもちゃのヨシダ</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道旭川市本町３丁目 新橘通りベルフォーレ横</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道旭川市本町３丁目 新橘通りベルフォーレ横]]></description>
+				<Point>
+					<coordinates>142.355962,43.7810568,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>キャッツアイ新札幌店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道札幌市厚別区厚別東５条１丁目</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道札幌市厚別区厚別東５条１丁目]]></description>
+				<Point>
+					<coordinates>141.4757921,43.0452621,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>キャッツアイ新川店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道札幌市北区新川２条７丁目１－７</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道札幌市北区新川２条７丁目１－７]]></description>
+				<address>北海道札幌市北区新川２条７丁目１－７</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>キャッツアイ清田店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道札幌市清田区清田１条１丁目２０－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道札幌市清田区清田１条１丁目２０－１]]></description>
+				<Point>
+					<coordinates>141.4363906,43.0030159,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>キャッツアイＢＩＧ東苗穂店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道札幌市東区東苗穂３条２丁目</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道札幌市東区東苗穂３条２丁目]]></description>
+				<Point>
+					<coordinates>141.4046097,43.0861308,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>キャッツアイ篠路店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道札幌市北区篠路１条４丁目６－３０</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道札幌市北区篠路１条４丁目６－３０]]></description>
+				<address>北海道札幌市北区篠路１条４丁目６－３０</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>西條百貨店稚内店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道稚内市大黒４丁目７－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道稚内市大黒４丁目７－１]]></description>
+				<address>北海道稚内市大黒４丁目７－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン札幌苗穂</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道札幌市東区東苗穂二条３-１-１　</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道札幌市東区東苗穂二条３-１-１　]]></description>
+				<address>北海道札幌市東区東苗穂二条３-１-１　</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー旭川</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道旭川市６条１４丁目６４番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道旭川市６条１４丁目６４番地]]></description>
+				<Point>
+					<coordinates>142.3724845,43.7688496,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー函館</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道函館市美原１－３－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道函館市美原１－３－１]]></description>
+				<address>北海道函館市美原１－３－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー釧路</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道釧路市新橋大通６丁目２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道釧路市新橋大通６丁目２]]></description>
+				<Point>
+					<coordinates>144.3718753,43.0053723,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー恵庭</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道恵庭市恵み野西２丁目１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道恵庭市恵み野西２丁目１]]></description>
+				<Point>
+					<coordinates>141.5753794,42.9015715,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー北見</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道北見市光西町１８５</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道北見市光西町１８５]]></description>
+				<address>北海道北見市光西町１８５</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー琴似</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道札幌市西区琴似２条１－４－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道札幌市西区琴似２条１－４－１]]></description>
+				<address>北海道札幌市西区琴似２条１－４－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー福住</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道札幌市豊平区福住２条１－２－５</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道札幌市豊平区福住２条１－２－５]]></description>
+				<address>北海道札幌市豊平区福住２条１－２－５</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー帯広</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道帯広市稲田町南八線西１０－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道帯広市稲田町南八線西１０－１]]></description>
+				<address>北海道帯広市稲田町南八線西１０－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー屯田</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道札幌市北区屯田８条３丁目５－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道札幌市北区屯田８条３丁目５－１]]></description>
+				<address>北海道札幌市北区屯田８条３丁目５－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドーアリオ札幌</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道札幌市東区北７条東９－２－２０</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道札幌市東区北７条東９－２－２０]]></description>
+				<address>北海道札幌市東区北７条東９－２－２０</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ＳＯＹＵ　Ｇａｍｅ　Ｆｉｅｌｄ発寒店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道札幌市西区発寒８条１２丁目１番１号　イオンモール札幌発寒３Ｆ　</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道札幌市西区発寒８条１２丁目１番１号　イオンモール札幌発寒３Ｆ　]]></description>
+				<address>北海道札幌市西区発寒８条１２丁目１番１号　イオンモール札幌発寒３Ｆ　</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ゲオ北見南大通店　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道北見市とん田西町２４８番地２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道北見市とん田西町２４８番地２]]></description>
+				<address>北海道北見市とん田西町２４８番地２</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー旭川西</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道旭川市緑町２３－２１６１－３イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道旭川市緑町２３－２１６１－３イオン２Ｆ]]></description>
+				<address>北海道旭川市緑町２３－２１６１－３イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー釧路</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道釧路郡釧路町桂木１－１－７　　イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道釧路郡釧路町桂木１－１－７　　イオン２Ｆ]]></description>
+				<address>北海道釧路郡釧路町桂木１－１－７　　イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー釧路昭和</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道釧路市昭和中央　４－１８－１イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道釧路市昭和中央　４－１８－１イオン２Ｆ]]></description>
+				<address>北海道釧路市昭和中央　４－１８－１イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー江別</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道江別市幸町３５ イオン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道江別市幸町３５ イオン３Ｆ]]></description>
+				<Point>
+					<coordinates>141.5339453,43.0969525,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー札幌桑園</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道札幌市中央区北８条西１４丁目２８番地　　イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道札幌市中央区北８条西１４丁目２８番地　　イオン２Ｆ]]></description>
+				<Point>
+					<coordinates>141.3330313,43.0693613,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー札幌元町</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道札幌市東区北３１条東１５丁目１－１イオン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道札幌市東区北３１条東１５丁目１－１イオン３Ｆ]]></description>
+				<address>北海道札幌市東区北３１条東１５丁目１－１イオン３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー札幌発寒</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道札幌市西区発寒８条１２丁目１－１　イオン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道札幌市西区発寒８条１２丁目１－１　イオン３Ｆ]]></description>
+				<address>北海道札幌市西区発寒８条１２丁目１－１　イオン３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー札幌苗穂</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道札幌市東区東苗穂２条３丁目１番１号イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道札幌市東区東苗穂２条３丁目１番１号イオン２Ｆ]]></description>
+				<address>北海道札幌市東区東苗穂２条３丁目１番１号イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー札幌平岡</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道札幌市清田区平岡３条５丁目３－１イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道札幌市清田区平岡３条５丁目３－１イオン２Ｆ]]></description>
+				<Point>
+					<coordinates>141.4580657,42.9966956,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー三笠</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道三笠市岡山１０５９－１　ＳｕＣ１Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道三笠市岡山１０５９－１　ＳｕＣ１Ｆ]]></description>
+				<address>北海道三笠市岡山１０５９－１　ＳｕＣ１Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー手稲山口</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道札幌市手稲区明日風６丁目１番１号ＳｕＣ１Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道札幌市手稲区明日風６丁目１番１号ＳｕＣ１Ｆ]]></description>
+				<Point>
+					<coordinates>141.2337697,43.14190550000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー石狩緑苑台　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道石狩市緑苑台中央１丁目２番ＳｕＣ１Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道石狩市緑苑台中央１丁目２番ＳｕＣ１Ｆ]]></description>
+				<Point>
+					<coordinates>141.3349246,43.1589651,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー登別</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道登別市若山町４－３３－１　　イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道登別市若山町４－３３－１　　イオン２Ｆ]]></description>
+				<address>北海道登別市若山町４－３３－１　　イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー苫小牧</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道苫小牧市柳町３－１－２０イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道苫小牧市柳町３－１－２０イオン２Ｆ]]></description>
+				<address>北海道苫小牧市柳町３－１－２０イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー名寄</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道名寄市字徳田８０番地１イオンＳＣ２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道名寄市字徳田８０番地１イオンＳＣ２Ｆ]]></description>
+				<Point>
+					<coordinates>142.4530393,44.3386905,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>パロ滝川</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道滝川市東町２丁目２９－１ ダイエー滝川店１Ｆ　　　</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道滝川市東町２丁目２９－１ ダイエー滝川店１Ｆ　　　]]></description>
+				<address>北海道滝川市東町２丁目２９－１ ダイエー滝川店１Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>パロ苫小牧</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道苫小牧市糸井１３５－１　トライアルＧ棟トライアル苫小牧店</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道苫小牧市糸井１３５－１　トライアルＧ棟トライアル苫小牧店]]></description>
+				<address>北海道苫小牧市糸井１３５－１　トライアルＧ棟トライアル苫小牧店</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>パロ網走</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道網走市駒場北５丁目８３番地 駒場ショッピングタウン</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道網走市駒場北５丁目８３番地 駒場ショッピングタウン]]></description>
+				<address>北海道網走市駒場北５丁目８３番地 駒場ショッピングタウン</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>らんらんらんど旭川</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道旭川市豊岡３条２－２－１９　　　　　　　旭友ストア　　ア・モール店２Ｆ　　　</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道旭川市豊岡３条２－２－１９　　　　　　　旭友ストア　　ア・モール店２Ｆ　　　]]></description>
+				<address>北海道旭川市豊岡３条２－２－１９　　　　　　　旭友ストア　　ア・モール店２Ｆ　　　</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>らんらんらんど上磯</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道北斗市七重浜４－４４－１　　　　　ダイエー上磯店１Ｆ　　　</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道北斗市七重浜４－４４－１　　　　　ダイエー上磯店１Ｆ　　　]]></description>
+				<address>北海道北斗市七重浜４－４４－１　　　　　ダイエー上磯店１Ｆ　　　</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>らんらんらんど新さっぽろ</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道札幌市厚別区厚別中央２条５－７ カテプリ新さっぽろ店３Ｆ　　　</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道札幌市厚別区厚別中央２条５－７ カテプリ新さっぽろ店３Ｆ　　　]]></description>
+				<address>北海道札幌市厚別区厚別中央２条５－７ カテプリ新さっぽろ店３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>らんらんらんど中標津</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道標津郡中標津町南町３番地１０ 東武サウスヒルズ１Ｆ　　　</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道標津郡中標津町南町３番地１０ 東武サウスヒルズ１Ｆ　　　]]></description>
+				<Point>
+					<coordinates>144.9778147,43.53626320000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>らんらんらんど湯ノ川</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道函館市湯川町３－１４－５　　　　　　　ダイエー湯川店１・２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道函館市湯川町３－１４－５　　　　　　　ダイエー湯川店１・２Ｆ]]></description>
+				<address>北海道函館市湯川町３－１４－５　　　　　　　ダイエー湯川店１・２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>プリズムストーン札幌東急</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道札幌市中央区北四条西2-1 さっぽろ東急百貨店 8F</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道札幌市中央区北四条西2-1 さっぽろ東急百貨店 8F]]></description>
+				<address>北海道札幌市中央区北四条西2-1 さっぽろ東急百貨店 8F</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>げーむぱーくぎゃらくしー</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>東札幌３条１丁目１−１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 東札幌３条１丁目１−１]]></description>
+				<address>東札幌３条１丁目１−１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ビックカメラ札幌店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>北海道札幌市中央区北五条西２－１　札幌ＥＳＴＡ　ＪＲタワー５Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 北海道札幌市中央区北五条西２－１　札幌ＥＳＴＡ　ＪＲタワー５Ｆ]]></description>
+				<Point>
+					<coordinates>141.3529667,43.0673973,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-960-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

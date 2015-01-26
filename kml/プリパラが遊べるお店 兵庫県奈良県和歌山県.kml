@@ -1,0 +1,1108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>プリパラが遊べるお店 兵庫県/奈良県/和歌山県</name>
+		<description><![CDATA[『プリパラ』公式ページの「遊べるお店」(http://pripara.jp/shop/)にあるデータをプロットしたものです。お店と住所の一覧だけでは探しにくかったので作りました。他の都道府県の地図は、 http://sakuramochi.mydns.jp/pripara/map をご覧ください。]]></description>
+		<Folder>
+			<name>27-兵庫県-0.csv</name>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アル・プラザつかしん</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県尼崎市塚口本町４－８－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県尼崎市塚口本町４－８－１]]></description>
+				<Point>
+					<coordinates>135.4194003,34.7624303,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アル・プラザあまがさき</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県尼崎市潮江１－３－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県尼崎市潮江１－３－１]]></description>
+				<address>兵庫県尼崎市潮江１－３－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ペリカン西神戸</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県神戸市西区竜が岡１－２１－１カナート西神戸内２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県神戸市西区竜が岡１－２１－１カナート西神戸内２Ｆ]]></description>
+				<Point>
+					<coordinates>134.9403013,34.7108049,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス加古川</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県加古川市尾上町今福７１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県加古川市尾上町今福７１]]></description>
+				<address>兵庫県加古川市尾上町今福７１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス神戸ジェームス山</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県神戸市垂水区青山台７－６－２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県神戸市垂水区青山台７－６－２]]></description>
+				<address>兵庫県神戸市垂水区青山台７－６－２</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス明石</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県明石市東仲ノ町６－１アスピア明石南館３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県明石市東仲ノ町６－１アスピア明石南館３Ｆ]]></description>
+				<address>兵庫県明石市東仲ノ町６－１アスピア明石南館３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ライフ下山手</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県神戸市中央区下山手通７－１－２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県神戸市中央区下山手通７－１－２]]></description>
+				<Point>
+					<coordinates>135.1788478,34.6877844,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>エディオン垂水</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県神戸市垂水区舞多聞東２丁目１－４５</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県神戸市垂水区舞多聞東２丁目１－４５]]></description>
+				<address>兵庫県神戸市垂水区舞多聞東２丁目１－４５</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イズミヤ小林</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県宝塚市小林５丁目５番４７号</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県宝塚市小林５丁目５番４７号]]></description>
+				<address>兵庫県宝塚市小林５丁目５番４７号</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ヤマダ電機ＬＡＢＩ三宮</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県神戸市中央区三宮町１丁目５－８</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県神戸市中央区三宮町１丁目５－８]]></description>
+				<address>兵庫県神戸市中央区三宮町１丁目５－８</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>西友ザ・モール姫路</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県姫路市今宿２０１７－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県姫路市今宿２０１７－１]]></description>
+				<Point>
+					<coordinates>134.6698458,34.8409512,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ダイエー塚口</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県尼崎市南塚口町２－１－３</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県尼崎市南塚口町２－１－３]]></description>
+				<address>兵庫県尼崎市南塚口町２－１－３</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ダイエー藤原台</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県神戸市北区藤原台中町１－２－２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県神戸市北区藤原台中町１－２－２]]></description>
+				<address>兵庫県神戸市北区藤原台中町１－２－２</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ダイエー三宮駅前</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県神戸市中央区雲井通６－１－１５</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県神戸市中央区雲井通６－１－１５]]></description>
+				<address>兵庫県神戸市中央区雲井通６－１－１５</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ダイエー甲子園</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県西宮市甲子園高潮町３－３</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県西宮市甲子園高潮町３－３]]></description>
+				<address>兵庫県西宮市甲子園高潮町３－３</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ダイエー宝塚中山</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県宝塚市売布東の町２１－２２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県宝塚市売布東の町２１－２２]]></description>
+				<address>兵庫県宝塚市売布東の町２１－２２</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>セガつかしん</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県尼崎市塚口本町４－８－１つかしん内</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県尼崎市塚口本町４－８－１つかしん内]]></description>
+				<address>兵庫県尼崎市塚口本町４－８－１つかしん内</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>セガワールドながさわ</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県明石市魚住町清水２４６４－１ドラブインながさわ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県明石市魚住町清水２４６４－１ドラブインながさわ]]></description>
+				<address>兵庫県明石市魚住町清水２４６４－１ドラブインながさわ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>セガららぽーと甲子園</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県西宮市甲子園八番町１－１００ららぽーと甲子園２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県西宮市甲子園八番町１－１００ららぽーと甲子園２Ｆ]]></description>
+				<address>兵庫県西宮市甲子園八番町１－１００ららぽーと甲子園２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>セガワールドココエあまがさき</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県尼崎市潮江１－３－１ココエあまがさき内４Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県尼崎市潮江１－３－１ココエあまがさき内４Ｆ]]></description>
+				<address>兵庫県尼崎市潮江１－３－１ココエあまがさき内４Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>カリヨンパークイオン伊丹昆陽店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県伊丹市池尻４丁目１－１ イオン伊丹昆陽ＳＣ内４Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県伊丹市池尻４丁目１－１ イオン伊丹昆陽ＳＣ内４Ｆ]]></description>
+				<address>兵庫県伊丹市池尻４丁目１－１ イオン伊丹昆陽ＳＣ内４Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ニシダヤ中央</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県尼崎市神田中通３－４１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県尼崎市神田中通３－４１]]></description>
+				<address>兵庫県尼崎市神田中通３－４１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>そごう神戸</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県神戸市中央区小野柄通８－１－８そごう神戸店８Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県神戸市中央区小野柄通８－１－８そごう神戸店８Ｆ]]></description>
+				<address>兵庫県神戸市中央区小野柄通８－１－８そごう神戸店８Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>タイトーＦステーション　ＨＡＴ神戸店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県神戸市中央区脇浜海岸通２－２－２ブルメールＨＡＴ神戸２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県神戸市中央区脇浜海岸通２－２－２ブルメールＨＡＴ神戸２Ｆ]]></description>
+				<address>兵庫県神戸市中央区脇浜海岸通２－２－２ブルメールＨＡＴ神戸２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー加古川</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県加古川市別府町緑町２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県加古川市別府町緑町２]]></description>
+				<address>兵庫県加古川市別府町緑町２</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー広畑</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県姫路市広畑区夢前町１－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県姫路市広畑区夢前町１－１]]></description>
+				<address>兵庫県姫路市広畑区夢前町１－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー明石</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県明石市二見町西二見１４５４</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県明石市二見町西二見１４５４]]></description>
+				<address>兵庫県明石市二見町西二見１４５４</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー甲子園</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県西宮市甲子園八番町１－１００</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県西宮市甲子園八番町１－１００]]></description>
+				<address>兵庫県西宮市甲子園八番町１－１００</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジージェームス山</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県神戸市垂水区青山台７－７－１イオン１Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県神戸市垂水区青山台７－７－１イオン１Ｆ]]></description>
+				<address>兵庫県神戸市垂水区青山台７－７－１イオン１Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー伊丹</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県伊丹市藤ノ木１－１－１イオン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県伊丹市藤ノ木１－１－１イオン３Ｆ]]></description>
+				<address>兵庫県伊丹市藤ノ木１－１－１イオン３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー伊丹昆陽</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県伊丹市池尻４－１－１ イオン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県伊丹市池尻４－１－１ イオン３Ｆ]]></description>
+				<Point>
+					<coordinates>135.3831715,34.78436130000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー加古川</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県加古川市平岡町新在家６１５－１イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県加古川市平岡町新在家６１５－１イオン２Ｆ]]></description>
+				<Point>
+					<coordinates>134.8624837,34.7492574,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー加西北条</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県加西市北条町北条３０８－１イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県加西市北条町北条３０８－１イオン２Ｆ]]></description>
+				<address>兵庫県加西市北条町北条３０８－１イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー高砂</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県高砂市緑丘２丁目１－４０イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県高砂市緑丘２丁目１－４０イオン２Ｆ]]></description>
+				<address>兵庫県高砂市緑丘２丁目１－４０イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー三木</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県三木市大村字砂１６３イオン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県三木市大村字砂１６３イオン３Ｆ]]></description>
+				<Point>
+					<coordinates>134.9724881,34.8052391,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー山崎</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県宍粟市山崎町中井字城下１０ イオン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県宍粟市山崎町中井字城下１０ イオン３Ｆ]]></description>
+				<Point>
+					<coordinates>134.543496,35.0021692,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー社</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県加東市社１１２６－１イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県加東市社１１２６－１イオン２Ｆ]]></description>
+				<address>兵庫県加東市社１１２６－１イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー洲本</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県洲本市塩屋１－１－８ イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県洲本市塩屋１－１－８ イオン２Ｆ]]></description>
+				<address>兵庫県洲本市塩屋１－１－８ イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー神戸北</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県神戸市北区上津台８－１－１イオン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県神戸市北区上津台８－１－１イオン３Ｆ]]></description>
+				<address>兵庫県神戸市北区上津台８－１－１イオン３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー猪名川</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県川辺郡猪名川町白金２－１イオン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県川辺郡猪名川町白金２－１イオン３Ｆ]]></description>
+				<address>兵庫県川辺郡猪名川町白金２－１イオン３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー南淡路</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県南あわじ市賀集八幡北字東内３７８－１イオン１Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県南あわじ市賀集八幡北字東内３７８－１イオン１Ｆ]]></description>
+				<Point>
+					<coordinates>134.7408563,34.2795805,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー尼崎</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県尼崎市次屋３－１３－１８イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県尼崎市次屋３－１３－１８イオン２Ｆ]]></description>
+				<address>兵庫県尼崎市次屋３－１３－１８イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー姫路ＲＣ</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県姫路市飾磨区細江２５６０番地イオン１Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県姫路市飾磨区細江２５６０番地イオン１Ｆ]]></description>
+				<address>兵庫県姫路市飾磨区細江２５６０番地イオン１Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー姫路大津</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県姫路市大津区大津町２丁目５番イオンモール２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県姫路市大津区大津町２丁目５番イオンモール２Ｆ]]></description>
+				<address>兵庫県姫路市大津区大津町２丁目５番イオンモール２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー明石</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県明石市大久保町ゆりのき通り３－３－１ イオン明石３番街３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県明石市大久保町ゆりのき通り３－３－１ イオン明石３番街３Ｆ]]></description>
+				<Point>
+					<coordinates>134.9351504,34.67884,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー和田山</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県朝来市和田山町枚田岡７７４イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県朝来市和田山町枚田岡７７４イオン２Ｆ]]></description>
+				<address>兵庫県朝来市和田山町枚田岡７７４イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>らんらんらんど甲南</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県神戸市東灘区本山南町８－７－１８ダイエー甲南店２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県神戸市東灘区本山南町８－７－１８ダイエー甲南店２Ｆ]]></description>
+				<address>兵庫県神戸市東灘区本山南町８－７－１８ダイエー甲南店２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>らんらんらんど西宮</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県西宮市林田町２－２４ダイエー西宮店２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県西宮市林田町２－２４ダイエー西宮店２Ｆ]]></description>
+				<address>兵庫県西宮市林田町２－２４ダイエー西宮店２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>らんらんらんど長田南</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県神戸市長田区東尻池新町１番２０号イオン長田南ショッピングセンター内２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県神戸市長田区東尻池新町１番２０号イオン長田南ショッピングセンター内２Ｆ]]></description>
+				<Point>
+					<coordinates>135.1593499,34.6551984,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>らんらんらんど名谷</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県神戸市須磨区中落合２－２－２ダイエー名谷店３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県神戸市須磨区中落合２－２－２ダイエー名谷店３Ｆ]]></description>
+				<address>兵庫県神戸市須磨区中落合２－２－２ダイエー名谷店３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>セルバ甲南山手店３Ｆゲームセンター</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県神戸市東灘区森南町１－５－１ / ３Ｆゲームセンター</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県神戸市東灘区森南町１－５－１ / ３Ｆゲームセンター]]></description>
+				<address>兵庫県神戸市東灘区森南町１－５－１ / ３Ｆゲームセンター</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン三田ウッディタウン</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県三田市けやき台１－６－２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県三田市けやき台１－６－２]]></description>
+				<address>兵庫県三田市けやき台１－６－２</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン姫路</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県姫路市増位本町２－１２－１０</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県姫路市増位本町２－１２－１０]]></description>
+				<address>兵庫県姫路市増位本町２－１２－１０</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン赤穂</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県赤穂市中広字別所５５－３</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県赤穂市中広字別所５５－３]]></description>
+				<Point>
+					<coordinates>134.4008295,34.7558146,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン和田山</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県朝来市和田山町牧田岡７７４</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県朝来市和田山町牧田岡７７４]]></description>
+				<Point>
+					<coordinates>134.8636862,35.329326,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン猪名川</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県川辺郡猪名川町猪名川町白金 ２－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県川辺郡猪名川町猪名川町白金 ２－１]]></description>
+				<Point>
+					<coordinates>135.3651532,34.9021483,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン加西北条</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県加西市北条町北条３０８－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県加西市北条町北条３０８－１]]></description>
+				<address>兵庫県加西市北条町北条３０８－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン伊丹昆陽</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県伊丹市池尻４－１－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県伊丹市池尻４－１－１]]></description>
+				<Point>
+					<coordinates>135.38222740000003,34.7845199,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン神戸北</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県神戸市北区上津台８－１－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県神戸市北区上津台８－１－１]]></description>
+				<Point>
+					<coordinates>135.1945815,34.8609275,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン加古川</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県加古川市平岡町新在家６１５－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県加古川市平岡町新在家６１５－１]]></description>
+				<Point>
+					<coordinates>134.8621201,34.7491423,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン明石</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県明石市大久保町ゆりのき通３－３－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県明石市大久保町ゆりのき通３－３－１]]></description>
+				<Point>
+					<coordinates>134.9351072,34.67862680000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン姫路大津</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県姫路市大津町２－５</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県姫路市大津町２－５]]></description>
+				<address>兵庫県姫路市大津町２－５</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン洲本</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県洲本市塩屋１－１－８</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県洲本市塩屋１－１－８]]></description>
+				<Point>
+					<coordinates>134.8925861,34.3450718,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>マリンカーニバル</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県神戸市北区日の峰２－６－１コアキタマチ３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県神戸市北区日の峰２－６－１コアキタマチ３Ｆ]]></description>
+				<address>兵庫県神戸市北区日の峰２－６－１コアキタマチ３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ポップンパーク</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>兵庫県三木市志染町青山３－９イオン三木青山２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 兵庫県三木市志染町青山３－９イオン三木青山２Ｆ]]></description>
+				<address>兵庫県三木市志染町青山３－９イオン三木青山２Ｆ</address>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>28-奈良県-0.csv</name>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス奈良</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>奈良県奈良市柏木町４５６－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 奈良県奈良市柏木町４５６－１]]></description>
+				<address>奈良県奈良市柏木町４５６－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ライフ大淀</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>奈良県吉野郡大淀町土田２４３－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 奈良県吉野郡大淀町土田２４３－１]]></description>
+				<address>奈良県吉野郡大淀町土田２４３－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イズミヤ広陵</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>奈良県北葛城郡広陵町大字安部４５０－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 奈良県北葛城郡広陵町大字安部４５０－１]]></description>
+				<address>奈良県北葛城郡広陵町大字安部４５０－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ザ・ビックエクストラ大安寺</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>奈良県奈良市南京終町１丁目１２８－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 奈良県奈良市南京終町１丁目１２８－１]]></description>
+				<address>奈良県奈良市南京終町１丁目１２８－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ大和郡山</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>奈良県大和郡山市田中町字宮西５１７番</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 奈良県大和郡山市田中町字宮西５１７番]]></description>
+				<Point>
+					<coordinates>135.7695403,34.6422744,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ西大和</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>奈良県北葛城郡上牧町上牧３０００－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 奈良県北葛城郡上牧町上牧３０００－１]]></description>
+				<address>奈良県北葛城郡上牧町上牧３０００－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ジョーシン郡山イオンモール</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>奈良県大和郡山市下三橋町７４１－１７０イオンモール大和郡山１Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 奈良県大和郡山市下三橋町７４１－１７０イオンモール大和郡山１Ｆ]]></description>
+				<address>奈良県大和郡山市下三橋町７４１－１７０イオンモール大和郡山１Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー奈良</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>奈良県奈良市二条大路南１－３－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 奈良県奈良市二条大路南１－３－１]]></description>
+				<address>奈良県奈良市二条大路南１－３－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー橿原</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>奈良県橿原市曲川町７－２０－１イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 奈良県橿原市曲川町７－２０－１イオン２Ｆ]]></description>
+				<address>奈良県橿原市曲川町７－２０－１イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー桜井</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>奈良県桜井市上之庄２７８－１イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 奈良県桜井市上之庄２７８－１イオン２Ｆ]]></description>
+				<address>奈良県桜井市上之庄２７８－１イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー大和郡山</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>奈良県大和郡山市下三橋７４１イオン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 奈良県大和郡山市下三橋７４１イオン３Ｆ]]></description>
+				<address>奈良県大和郡山市下三橋７４１イオン３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー天理</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>奈良県天理市東井戸堂町３８１ ザ・ビッグエクストラ１Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 奈良県天理市東井戸堂町３８１ ザ・ビッグエクストラ１Ｆ]]></description>
+				<address>奈良県天理市東井戸堂町３８１ ザ・ビッグエクストラ１Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー登美ヶ丘</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>奈良県生駒市鹿畑町３０２７番地イオンモール奈良登美ヶ丘２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 奈良県生駒市鹿畑町３０２７番地イオンモール奈良登美ヶ丘２Ｆ]]></description>
+				<address>奈良県生駒市鹿畑町３０２７番地イオンモール奈良登美ヶ丘２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン五條</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>奈良県五條市今井２－１５０</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 奈良県五條市今井２－１５０]]></description>
+				<address>奈良県五條市今井２－１５０</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン大和郡山</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>奈良県大和郡山市下三橋町７４１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 奈良県大和郡山市下三橋町７４１]]></description>
+				<address>奈良県大和郡山市下三橋町７４１</address>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>29-和歌山県-0.csv</name>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ペリカン和歌山</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>和歌山県和歌山市新生町７－２０イズミヤ内２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 和歌山県和歌山市新生町７－２０イズミヤ内２Ｆ]]></description>
+				<Point>
+					<coordinates>135.18755990000002,34.2216139,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イズミヤ紀伊川辺</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>和歌山県和歌山市川辺２２０番</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 和歌山県和歌山市川辺２２０番]]></description>
+				<address>和歌山県和歌山市川辺２２０番</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ドナリアコットミレニアシティ岩出店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>和歌山県岩出市中迫字塚本１４７ミレニアシティ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 和歌山県岩出市中迫字塚本１４７ミレニアシティ]]></description>
+				<Point>
+					<coordinates>135.31544310000004,34.2598459,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>にこぱガーデンパーク和歌山店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>和歌山県松江字向鵜の島１４６９－１ ガーデンパーク和歌山</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 和歌山県松江字向鵜の島１４６９－１ ガーデンパーク和歌山]]></description>
+				<Point>
+					<coordinates>135.1533632,34.239266,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ユーズランド和歌山店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>和歌山県和歌山市中字楠谷５７３番地 イオンモール和歌山２Ｆ区画番号２０５９</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 和歌山県和歌山市中字楠谷５７３番地 イオンモール和歌山２Ｆ区画番号２０５９]]></description>
+				<Point>
+					<coordinates>135.1487423,34.2757354,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>オークワ　スーパーセンター南紀店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>和歌山県新宮市佐野３－１１－１９</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 和歌山県新宮市佐野３－１１－１９]]></description>
+				<Point>
+					<coordinates>135.9696523,33.6753618,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>オークワ　パビリオンシティ田辺店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>和歌山県田辺市稲成町新江原３１６５</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 和歌山県田辺市稲成町新江原３１６５]]></description>
+				<Point>
+					<coordinates>135.3759054,33.7440266,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>オークワ　ミレニアシティ岩出店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>和歌山県岩出市中迫１４７</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 和歌山県岩出市中迫１４７]]></description>
+				<Point>
+					<coordinates>135.3150662,34.2597521,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>オークワ　ロマンシティ御坊店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>和歌山県御坊市湯川町財部１８１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 和歌山県御坊市湯川町財部１８１]]></description>
+				<Point>
+					<coordinates>135.1487845,33.8976627,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>タイトーＦステーション　御坊店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>和歌山県御坊市湯川町財部１８１番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 和歌山県御坊市湯川町財部１８１番地]]></description>
+				<Point>
+					<coordinates>135.1489615,33.8977874,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>仔熊近鉄和歌山</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>和歌山県和歌山市友田町５－１８ 近鉄百貨店和歌山店４Ｆトイランド</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 和歌山県和歌山市友田町５－１８ 近鉄百貨店和歌山店４Ｆトイランド]]></description>
+				<address>和歌山県和歌山市友田町５－１８ 近鉄百貨店和歌山店４Ｆトイランド</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー新宮</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>和歌山県新宮市橋本２丁目１４番２３号イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 和歌山県新宮市橋本２丁目１４番２３号イオン２Ｆ]]></description>
+				<address>和歌山県新宮市橋本２丁目１４番２３号イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー和歌山</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>和歌山県和歌山市中字楠谷５７３番地イオン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 和歌山県和歌山市中字楠谷５７３番地イオン３Ｆ]]></description>
+				<Point>
+					<coordinates>135.1489488,34.275875,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-960-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

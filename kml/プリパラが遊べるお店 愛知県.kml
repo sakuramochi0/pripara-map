@@ -1,0 +1,1552 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>プリパラが遊べるお店 愛知県</name>
+		<description><![CDATA[『プリパラ』公式ページの「遊べるお店」(http://pripara.jp/shop/)にあるデータをプロットしたものです。お店と住所の一覧だけでは探しにくかったので作りました。他の都道府県の地図は、 http://sakuramochi.mydns.jp/pripara/map をご覧ください。]]></description>
+		<Folder>
+			<name>22-愛知県-0.csv</name>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>平和堂江南</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県江南市上奈良町栄６１－３</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県江南市上奈良町栄６１－３]]></description>
+				<address>愛知県江南市上奈良町栄６１－３</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス名古屋みなと</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市港区砂美町１－５ ニトリみなとＳＣ２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市港区砂美町１－５ ニトリみなとＳＣ２Ｆ]]></description>
+				<address>愛知県名古屋市港区砂美町１－５ ニトリみなとＳＣ２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス木曽川</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県一宮市木曽川町黒田字南八ツケ池２５－１イオンモール木曽川１Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県一宮市木曽川町黒田字南八ツケ池２５－１イオンモール木曽川１Ｆ]]></description>
+				<Point>
+					<coordinates>136.7747064,35.3484298,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス西春日井</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県西春日井郡豊山町大字豊場字大山１３９－１７</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県西春日井郡豊山町大字豊場字大山１３９－１７]]></description>
+				<address>愛知県西春日井郡豊山町大字豊場字大山１３９－１７</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス岡崎</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県岡崎市大平町字石丸３８</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県岡崎市大平町字石丸３８]]></description>
+				<address>愛知県岡崎市大平町字石丸３８</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス名古屋中川</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市中川区新家１－２４２１アズパーク２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市中川区新家１－２４２１アズパーク２Ｆ]]></description>
+				<address>愛知県名古屋市中川区新家１－２４２１アズパーク２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス高蔵寺ニュータウン</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県春日井市中央台１－１－２ 高蔵寺センター内</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県春日井市中央台１－１－２ 高蔵寺センター内]]></description>
+				<Point>
+					<coordinates>137.0486146,35.2797847,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス三好</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県みよし市三好町青木９１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県みよし市三好町青木９１]]></description>
+				<address>愛知県みよし市三好町青木９１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス東浦</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県知多郡東浦町大字緒川字申新田弐区６７－８イオンモール東浦２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県知多郡東浦町大字緒川字申新田弐区６７－８イオンモール東浦２Ｆ]]></description>
+				<address>愛知県知多郡東浦町大字緒川字申新田弐区６７－８イオンモール東浦２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ヤマダ電機ＬＡＢＩ名古屋</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市中村区名駅１－２－５</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市中村区名駅１－２－５]]></description>
+				<address>愛知県名古屋市中村区名駅１－２－５</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>西友安城</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県安城市大東町９－３１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県安城市大東町９－３１]]></description>
+				<address>愛知県安城市大東町９－３１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>西友ＬＩＶＩＮザ・モール春日井</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県春日井市六軒屋町字東丘２２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県春日井市六軒屋町字東丘２２]]></description>
+				<Point>
+					<coordinates>136.9827517,35.2590077,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ダイエー上飯田</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市北区織部町１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市北区織部町１]]></description>
+				<Point>
+					<coordinates>136.9282766,35.2010595,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>セガイオンタウン刈谷</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県刈谷市東境町京和１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県刈谷市東境町京和１]]></description>
+				<Point>
+					<coordinates>137.0276973,35.0393086,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>セガワールド上小田井ｍｏｚｏワンダーシティ</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市西区二方町４０番地「ｍｏｚｏワンダーシティ」４Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市西区二方町４０番地「ｍｏｚｏワンダーシティ」４Ｆ]]></description>
+				<Point>
+					<coordinates>136.8839394,35.2249542,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>セガイオンタウン名西</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市西区香呑町 6ー４９－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市西区香呑町 6ー４９－１]]></description>
+				<Point>
+					<coordinates>136.8926643,35.2042487,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>セガ岡崎</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県岡崎市上地３丁目５０－４</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県岡崎市上地３丁目５０－４]]></description>
+				<address>愛知県岡崎市上地３丁目５０－４</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ＡＧスクエア豊川</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県豊川市東名町２－１０１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県豊川市東名町２－１０１]]></description>
+				<address>愛知県豊川市東名町２－１０１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>セガワールドセガおもしろ遊戯御殿木曽川</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県一宮市木曽川町黒田八ヶ池２５－１ イオンモール木曽川３階</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県一宮市木曽川町黒田八ヶ池２５－１ イオンモール木曽川３階]]></description>
+				<Point>
+					<coordinates>136.7746805,35.3493353,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>にこぱエルエルタウン岡崎店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県岡崎市上和田町南天白５－１ エルエルタウン岡崎店</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県岡崎市上和田町南天白５－１ エルエルタウン岡崎店]]></description>
+				<Point>
+					<coordinates>137.14629490000002,34.9334721,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ニコパウイングタウン岡崎店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県岡崎市羽根町小豆坂３番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県岡崎市羽根町小豆坂３番地]]></description>
+				<address>愛知県岡崎市羽根町小豆坂３番地</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>にこぱなるぱーく店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市緑区浦里三丁目２３２なるぱーく１Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市緑区浦里三丁目２３２なるぱーく１Ｆ]]></description>
+				<address>愛知県名古屋市緑区浦里三丁目２３２なるぱーく１Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>カラフルパークイオン千種店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市千種区千種２－１６－１３ イオン千種ＳＣ２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市千種区千種２－１６－１３ イオン千種ＳＣ２Ｆ]]></description>
+				<address>愛知県名古屋市千種区千種２－１６－１３ イオン千種ＳＣ２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>カラフルパークイオン有松店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市緑区鳴海町字有松裏２００ イオンタウン有松１Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市緑区鳴海町字有松裏２００ イオンタウン有松１Ｆ]]></description>
+				<address>愛知県名古屋市緑区鳴海町字有松裏２００ イオンタウン有松１Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ハローズガーデン安城南店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県安城市桜井町貝戸尻６０番地アピタ安城南店２階</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県安城市桜井町貝戸尻６０番地アピタ安城南店２階]]></description>
+				<address>愛知県安城市桜井町貝戸尻６０番地アピタ安城南店２階</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ファンタジーウエストタウン西尾店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県西尾市高畠町３－２３－９ ヴェルサウォーク西尾店３階</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県西尾市高畠町３－２３－９ ヴェルサウォーク西尾店３階]]></description>
+				<Point>
+					<coordinates>137.0600021,34.863814,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ユーズランド東浦店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県知多郡東浦町緒川申新田二区６７－８イオンモール東浦２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県知多郡東浦町緒川申新田二区６７－８イオンモール東浦２Ｆ]]></description>
+				<Point>
+					<coordinates>136.974139,34.9784766,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>松坂屋名古屋</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市中区栄３－１６－１ 松坂屋名古屋本店本館５Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市中区栄３－１６－１ 松坂屋名古屋本店本館５Ｆ]]></description>
+				<address>愛知県名古屋市中区栄３－１６－１ 松坂屋名古屋本店本館５Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ピアゴ新城　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県新城市字的場２５番地の１１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県新城市字的場２５番地の１１]]></description>
+				<Point>
+					<coordinates>137.495129,34.903651,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ向山　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県豊橋市向山町中畑１番地１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県豊橋市向山町中畑１番地１]]></description>
+				<address>愛知県豊橋市向山町中畑１番地１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ピアゴ豊明　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県豊明市三崎町井ノ花５番地の１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県豊明市三崎町井ノ花５番地の１]]></description>
+				<address>愛知県豊明市三崎町井ノ花５番地の１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ピアゴ碧南東　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県碧南市東浦町６丁目１７番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県碧南市東浦町６丁目１７番地]]></description>
+				<address>愛知県碧南市東浦町６丁目１７番地</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ピアゴ福釜　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県安城市福釜町矢場１６番地５</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県安城市福釜町矢場１６番地５]]></description>
+				<address>愛知県安城市福釜町矢場１６番地５</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ピアゴ武豊　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県知多郡武豊町西田崎１９番地の１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県知多郡武豊町西田崎１９番地の１]]></description>
+				<address>愛知県知多郡武豊町西田崎１９番地の１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ピアゴ菱野　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県瀬戸市緑町１丁目１０６番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県瀬戸市緑町１丁目１０６番地]]></description>
+				<address>愛知県瀬戸市緑町１丁目１０６番地</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ピアゴ伝法寺　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県一宮市丹陽町伝法寺字中東畑１９４３番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県一宮市丹陽町伝法寺字中東畑１９４３番地]]></description>
+				<Point>
+					<coordinates>136.8422813,35.263716,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ピアゴ中村　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市中村区大門町２７番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市中村区大門町２７番地]]></description>
+				<address>愛知県名古屋市中村区大門町２７番地</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ピアゴ大和　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県一宮市大和町毛受字一本松１９番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県一宮市大和町毛受字一本松１９番地]]></description>
+				<address>愛知県一宮市大和町毛受字一本松１９番地</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ピアゴ上和田　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県岡崎市上和田町字サジ１０</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県岡崎市上和田町字サジ１０]]></description>
+				<address>愛知県岡崎市上和田町字サジ１０</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ピアゴ勝幡　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県愛西市勝幡町弁才天２２８３番地６０</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県愛西市勝幡町弁才天２２８３番地６０]]></description>
+				<Point>
+					<coordinates>136.7491053,35.1939899,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ピアゴ香久山　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県日進市香久山五丁目１８０１番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県日進市香久山五丁目１８０１番地]]></description>
+				<address>愛知県日進市香久山五丁目１８０１番地</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ピアゴ吉良　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県幡豆郡吉良町吉田字天笠桂 １６番地３</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県幡豆郡吉良町吉田字天笠桂 １６番地３]]></description>
+				<Point>
+					<coordinates>137.0631842,34.80125490000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ピアゴ井ヶ谷　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県刈谷市井ヶ谷町下前田３５番地１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県刈谷市井ヶ谷町下前田３５番地１]]></description>
+				<address>愛知県刈谷市井ヶ谷町下前田３５番地１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ緑　　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市緑区徳重二丁目２０１番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市緑区徳重二丁目２０１番地]]></description>
+				<address>愛知県名古屋市緑区徳重二丁目２０１番地</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ木曽川　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県一宮市木曽川町黒田八ノ通５１番地の４</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県一宮市木曽川町黒田八ノ通５１番地の４]]></description>
+				<address>愛知県一宮市木曽川町黒田八ノ通５１番地の４</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ鳴海　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市緑区鳴海町伝治山３番地９</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市緑区鳴海町伝治山３番地９]]></description>
+				<address>愛知県名古屋市緑区鳴海町伝治山３番地９</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ名古屋空</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県西春日井郡豊山町大字豊場字林先１番８</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県西春日井郡豊山町大字豊場字林先１番８]]></description>
+				<address>愛知県西春日井郡豊山町大字豊場字林先１番８</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ豊田元町</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県豊田市土橋町２丁目６５番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県豊田市土橋町２丁目６５番地]]></description>
+				<address>愛知県豊田市土橋町２丁目６５番地</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ桃花台　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県小牧市古雅一丁目１番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県小牧市古雅一丁目１番地]]></description>
+				<address>愛知県小牧市古雅一丁目１番地</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ東海通　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市港区港明１丁目１０番２８号</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市港区港明１丁目１０番２８号]]></description>
+				<address>愛知県名古屋市港区港明１丁目１０番２８号</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ東海荒尾</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県東海市荒尾町山王前２０番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県東海市荒尾町山王前２０番地]]></description>
+				<address>愛知県東海市荒尾町山王前２０番地</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ長久手　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県長久手市戸田谷９０１番地１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県長久手市戸田谷９０１番地１]]></description>
+				<address>愛知県長久手市戸田谷９０１番地１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ知立　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県知立市長篠町大山１８番地の１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県知立市長篠町大山１８番地の１]]></description>
+				<address>愛知県知立市長篠町大山１８番地の１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ大府　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県大府市明成町４丁目１３３番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県大府市明成町４丁目１３３番地]]></description>
+				<address>愛知県大府市明成町４丁目１３３番地</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ大口　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県丹羽郡大口町丸２丁目３６番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県丹羽郡大口町丸２丁目３６番地]]></description>
+				<address>愛知県丹羽郡大口町丸２丁目３６番地</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ千代田橋</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市千種区千代田橋２丁目１番１号</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市千種区千代田橋２丁目１番１号]]></description>
+				<address>愛知県名古屋市千種区千代田橋２丁目１番１号</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ瀬戸　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県瀬戸市幸町３３番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県瀬戸市幸町３３番地]]></description>
+				<address>愛知県瀬戸市幸町３３番地</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ新守山　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市守山区新守山２８３０番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市守山区新守山２８３０番地]]></description>
+				<address>愛知県名古屋市守山区新守山２８３０番地</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ小牧　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県小牧市堀の内３丁目１５番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県小牧市堀の内３丁目１５番地]]></description>
+				<address>愛知県小牧市堀の内３丁目１５番地</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ高蔵寺　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県春日井市中央台２丁目５番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県春日井市中央台２丁目５番地]]></description>
+				<address>愛知県春日井市中央台２丁目５番地</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ江南西　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県江南市松竹町上野２０５番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県江南市松竹町上野２０５番地]]></description>
+				<address>愛知県江南市松竹町上野２０５番地</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ刈谷　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県刈谷市南桜町２丁目５６番１号</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県刈谷市南桜町２丁目５６番１号]]></description>
+				<address>愛知県刈谷市南桜町２丁目５６番１号</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ蒲郡　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県蒲郡市港町１７番１０号</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県蒲郡市港町１７番１０号]]></description>
+				<address>愛知県蒲郡市港町１７番１０号</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ岡崎北　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県岡崎市日名北町４番地４６</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県岡崎市日名北町４番地４６]]></description>
+				<address>愛知県岡崎市日名北町４番地４６</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ稲沢東　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県稲沢市下津穂所１－１－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県稲沢市下津穂所１－１－１]]></description>
+				<address>愛知県稲沢市下津穂所１－１－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ稲沢　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県稲沢市天池五反田町１番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県稲沢市天池五反田町１番地]]></description>
+				<address>愛知県稲沢市天池五反田町１番地</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ一宮　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県一宮市両郷町１丁目６番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県一宮市両郷町１丁目６番地]]></description>
+				<Point>
+					<coordinates>136.8166206,35.3105991,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ安城南　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県安城市桜井町貝戸尻６０番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県安城市桜井町貝戸尻６０番地]]></description>
+				<address>愛知県安城市桜井町貝戸尻６０番地</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ阿久比　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県知多郡阿久比町椋岡徳吉１番地１２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県知多郡阿久比町椋岡徳吉１番地１２]]></description>
+				<address>愛知県知多郡阿久比町椋岡徳吉１番地１２</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ西尾</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県西尾市高畠町３丁目２３－９</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県西尾市高畠町３丁目２３－９]]></description>
+				<Point>
+					<coordinates>137.0598842,34.8637778,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ名北　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市北区辻町９丁目１番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市北区辻町９丁目１番地]]></description>
+				<Point>
+					<coordinates>136.9226928,35.2097764,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ名南　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市南区豊田四丁目９番４７号</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市南区豊田四丁目９番４７号]]></description>
+				<address>愛知県名古屋市南区豊田四丁目９番４７号</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ゲームランド岡崎</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県岡崎市 戸崎町 字外山３８－５ イオンモール岡崎シネマ館３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県岡崎市 戸崎町 字外山３８－５ イオンモール岡崎シネマ館３Ｆ]]></description>
+				<Point>
+					<coordinates>137.1642928,34.9384629,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>プラサカプコン稲沢</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県稲沢市下津町地内尾張西部郡都市拠点地区１３街区 リーフフォーク稲沢２０１区画</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県稲沢市下津町地内尾張西部郡都市拠点地区１３街区 リーフフォーク稲沢２０１区画]]></description>
+				<Point>
+					<coordinates>136.8190552,35.2607242,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>プラサカプコン豊田</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県豊田市東山町１－５－１グリーンシティ３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県豊田市東山町１－５－１グリーンシティ３Ｆ]]></description>
+				<address>愛知県豊田市東山町１－５－１グリーンシティ３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トヨタ生協　本店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県豊田市山之手８－９２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県豊田市山之手８－９２]]></description>
+				<Point>
+					<coordinates>137.1452768,35.0525002,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>タイトーステーション　豊橋店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県豊橋市藤沢町１４１－１１Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県豊橋市藤沢町１４１－１１Ｆ]]></description>
+				<address>愛知県豊橋市藤沢町１４１－１１Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ファミリ－ランド　ドリ－ム</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県田原市田原町南新地７６－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県田原市田原町南新地７６－１]]></description>
+				<address>愛知県田原市田原町南新地７６－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>タイトーステーション　パールシティ稲沢店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県稲沢市井之口大坪町８０－１パールシティ２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県稲沢市井之口大坪町８０－１パールシティ２Ｆ]]></description>
+				<address>愛知県稲沢市井之口大坪町８０－１パールシティ２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>セイタイトー　弥富</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県弥富市五明 １３７１－４</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県弥富市五明 １３７１－４]]></description>
+				<Point>
+					<coordinates>136.7168876,35.1148825,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>タイトーＦステーション　ヒルズウォーク徳重ガーデンズ店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市緑区鳴海町字徳重１８－４４ ヒルズウォーク徳重ガーデンズ内２階</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市緑区鳴海町字徳重１８－４４ ヒルズウォーク徳重ガーデンズ内２階]]></description>
+				<address>愛知県名古屋市緑区鳴海町字徳重１８－４４ ヒルズウォーク徳重ガーデンズ内２階</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>中川コロナワールド</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市中川区江松三丁目１１０番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市中川区江松三丁目１１０番地]]></description>
+				<address>愛知県名古屋市中川区江松三丁目１１０番地</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>安城コロナワールド</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県安城市浜富町６－８</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県安城市浜富町６－８]]></description>
+				<address>愛知県安城市浜富町６－８</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー豊橋</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県豊橋市藤沢町１４１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県豊橋市藤沢町１４１]]></description>
+				<address>愛知県豊橋市藤沢町１４１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー刈谷</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県刈谷市高倉町２ー６０１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県刈谷市高倉町２ー６０１]]></description>
+				<address>愛知県刈谷市高倉町２ー６０１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー犬山</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県犬山市天神町１－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県犬山市天神町１－１]]></description>
+				<address>愛知県犬山市天神町１－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー知多</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県知多市新知東町１－１０－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県知多市新知東町１－１０－１]]></description>
+				<address>愛知県知多市新知東町１－１０－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー安城</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県安城市住吉町３－１－８</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県安城市住吉町３－１－８]]></description>
+				<address>愛知県安城市住吉町３－１－８</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー尾張旭</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県尾張旭市南原山町石原１１６－４</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県尾張旭市南原山町石原１１６－４]]></description>
+				<address>愛知県尾張旭市南原山町石原１１６－４</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>レイク・リビン津島本店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県津島市大字津島字北新開３５１番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県津島市大字津島字北新開３５１番地]]></description>
+				<address>愛知県津島市大字津島字北新開３５１番地</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>レイク・リビン清洲店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県清須市西市場５丁目５－３</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県清須市西市場５丁目５－３]]></description>
+				<Point>
+					<coordinates>136.8290346,35.21894530000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>レイク・リビン師勝店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県北名古屋市鹿田1929</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県北名古屋市鹿田1929]]></description>
+				<address>愛知県北名古屋市鹿田1929</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>レイク・リビン太平通り店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市中川区宮脇町２丁目１１番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市中川区宮脇町２丁目１１番地]]></description>
+				<address>愛知県名古屋市中川区宮脇町２丁目１１番地</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>レイク・リビン名西店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市西区名西２丁目３３－８</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市西区名西２丁目３３－８]]></description>
+				<address>愛知県名古屋市西区名西２丁目３３－８</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー・ｆ新瑞橋</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市南区菊住１丁目７－１０イオンモール３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市南区菊住１丁目７－１０イオンモール３Ｆ]]></description>
+				<address>愛知県名古屋市南区菊住１丁目７－１０イオンモール３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジーナゴヤドーム前</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市東区矢田南４丁目１０２番地の３イオン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市東区矢田南４丁目１０２番地の３イオン３Ｆ]]></description>
+				<address>愛知県名古屋市東区矢田南４丁目１０２番地の３イオン３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジーワンダーシティ</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市西区二方町４０イオン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市西区二方町４０イオン３Ｆ]]></description>
+				<Point>
+					<coordinates>136.8835556,35.2248111,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー岡崎南</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県岡崎市戸崎町字ばら山１－１イオン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県岡崎市戸崎町字ばら山１－１イオン３Ｆ]]></description>
+				<address>愛知県岡崎市戸崎町字ばら山１－１イオン３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー三好　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県みよし市三好町青木９１番地 イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県みよし市三好町青木９１番地 イオン２Ｆ]]></description>
+				<Point>
+					<coordinates>137.0795432,35.0922368,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー守山</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市守山区笹ヶ根３－１２２８イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市守山区笹ヶ根３－１２２８イオン２Ｆ]]></description>
+				<address>愛知県名古屋市守山区笹ヶ根３－１２２８イオン２Ｆ</address>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>22-愛知県-1.csv</name>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー春日井</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県春日井市柏井町４－１７イオン４Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県春日井市柏井町４－１７イオン４Ｆ]]></description>
+				<address>愛知県春日井市柏井町４－１７イオン４Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー瀬戸みずの</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県瀬戸市みずの坂２丁目２５３番地イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県瀬戸市みずの坂２丁目２５３番地イオン２Ｆ]]></description>
+				<address>愛知県瀬戸市みずの坂２丁目２５３番地イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー大高</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市緑区大高町字奥平子１－１イオン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市緑区大高町字奥平子１－１イオン３Ｆ]]></description>
+				<address>愛知県名古屋市緑区大高町字奥平子１－１イオン３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー東浦</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県知多郡東浦町大字緒川字 申新田二区 ６７－８イオン１Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県知多郡東浦町大字緒川字 申新田二区 ６７－８イオン１Ｆ]]></description>
+				<address>愛知県知多郡東浦町大字緒川字 申新田二区 ６７－８イオン１Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー南陽</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市港区春田野１－３３０イオン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市港区春田野１－３３０イオン３Ｆ]]></description>
+				<address>愛知県名古屋市港区春田野１－３３０イオン３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー熱田</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市熱田区六野一丁目２番１１号イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市熱田区六野一丁目２番１１号イオン２Ｆ]]></description>
+				<address>愛知県名古屋市熱田区六野一丁目２番１１号イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー半田</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県半田市有楽町８－７イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県半田市有楽町８－７イオン２Ｆ]]></description>
+				<address>愛知県半田市有楽町８－７イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー扶桑</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県丹羽郡扶桑町大字南山名字高塚５－１イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県丹羽郡扶桑町大字南山名字高塚５－１イオン２Ｆ]]></description>
+				<address>愛知県丹羽郡扶桑町大字南山名字高塚５－１イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー豊橋南</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県豊橋市野依町字落合１－１２イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県豊橋市野依町字落合１－１２イオン２Ｆ]]></description>
+				<address>愛知県豊橋市野依町字落合１－１２イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー豊川</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県豊川市開運通り２－３１イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県豊川市開運通り２－３１イオン２Ｆ]]></description>
+				<address>愛知県豊川市開運通り２－３１イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー名古屋みなと</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市港区品川町２－１－６イオン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市港区品川町２－１－６イオン３Ｆ]]></description>
+				<address>愛知県名古屋市港区品川町２－１－６イオン３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー名古屋茶屋</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市港区西茶屋２丁目１１イオン３Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市港区西茶屋２丁目１１イオン３Ｆ]]></description>
+				<address>愛知県名古屋市港区西茶屋２丁目１１イオン３Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー木曽川</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県一宮市木曽川町黒田字南八ツヶ池２５－１イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県一宮市木曽川町黒田字南八ツヶ池２５－１イオン２Ｆ]]></description>
+				<Point>
+					<coordinates>136.7735262,35.3484123,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>らんらんらんどメイトピア</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市名東区高間町５０１－１ダイエーメイトピア店２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市名東区高間町５０１－１ダイエーメイトピア店２Ｆ]]></description>
+				<address>愛知県名古屋市名東区高間町５０１－１ダイエーメイトピア店２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>らんらんらんど名古屋東</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市名東区猪子石原２－１７０１ダイエー名古屋東店１Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市名東区猪子石原２－１７０１ダイエー名古屋東店１Ｆ]]></description>
+				<address>愛知県名古屋市名東区猪子石原２－１７０１ダイエー名古屋東店１Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>プリズムストーン名古屋</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市中村区名駅1-2-1 名鉄百貨店本店 8F</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市中村区名駅1-2-1 名鉄百貨店本店 8F]]></description>
+				<address>愛知県名古屋市中村区名駅1-2-1 名鉄百貨店本店 8F</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ビックカメラ名古屋駅西店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市中村区椿町６－９トイズコーナー</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市中村区椿町６－９トイズコーナー]]></description>
+				<address>愛知県名古屋市中村区椿町６－９トイズコーナー</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン高橋</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県豊田市東山町１－５－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県豊田市東山町１－５－１]]></description>
+				<address>愛知県豊田市東山町１－５－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン豊田</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県豊田市広路町１－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県豊田市広路町１－１]]></description>
+				<address>愛知県豊田市広路町１－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン小牧</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県小牧市東１－１２６</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県小牧市東１－１２６]]></description>
+				<address>愛知県小牧市東１－１２６</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン木曽川</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県一宮市木曽川町黒田字南八ツケ池２５－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県一宮市木曽川町黒田字南八ツケ池２５－１]]></description>
+				<Point>
+					<coordinates>136.7732275,35.349179,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン扶桑</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県丹羽郡扶桑町大字南山名字高塚５－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県丹羽郡扶桑町大字南山名字高塚５－１]]></description>
+				<address>愛知県丹羽郡扶桑町大字南山名字高塚５－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン春日井</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県春日井市柏井町４－１７</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県春日井市柏井町４－１７]]></description>
+				<address>愛知県春日井市柏井町４－１７</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン大高</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市緑区大高町字奥平子１－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市緑区大高町字奥平子１－１]]></description>
+				<address>愛知県名古屋市緑区大高町字奥平子１－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン守山</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市守山区笹ヶ根３－１２２８</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市守山区笹ヶ根３－１２２８]]></description>
+				<address>愛知県名古屋市守山区笹ヶ根３－１２２８</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン熱田</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市熱田区六野１－２－１１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市熱田区六野１－２－１１]]></description>
+				<address>愛知県名古屋市熱田区六野１－２－１１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン名古屋みなと</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市港区品川町２－１－６</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市港区品川町２－１－６]]></description>
+				<address>愛知県名古屋市港区品川町２－１－６</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオンナゴヤドーム前</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市東区矢田南４－１０２－３</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市東区矢田南４－１０２－３]]></description>
+				<address>愛知県名古屋市東区矢田南４－１０２－３</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオンワンダーシティ</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県名古屋市西区二方町４０</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県名古屋市西区二方町４０]]></description>
+				<address>愛知県名古屋市西区二方町４０</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン三好</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県みよし市三好町青木９１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県みよし市三好町青木９１]]></description>
+				<address>愛知県みよし市三好町青木９１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン岡崎南</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県岡崎市戸崎町字ばら山１－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県岡崎市戸崎町字ばら山１－１]]></description>
+				<address>愛知県岡崎市戸崎町字ばら山１－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン豊橋南</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県豊橋市野依町字落合１－１２</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県豊橋市野依町字落合１－１２]]></description>
+				<address>愛知県豊橋市野依町字落合１－１２</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン東浦</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県知多郡東浦町大字緒川字 申新田二区 ６７－８</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県知多郡東浦町大字緒川字 申新田二区 ６７－８]]></description>
+				<address>愛知県知多郡東浦町大字緒川字 申新田二区 ６７－８</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ザ・ビッグエクストラ刈谷</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>愛知県刈谷市東境町京和１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 愛知県刈谷市東境町京和１]]></description>
+				<Point>
+					<coordinates>137.0276866,35.0391636,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-960-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>

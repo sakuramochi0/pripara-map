@@ -1,0 +1,595 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>プリパラが遊べるお店 石川県/福井県/長野県</name>
+		<description><![CDATA[『プリパラ』公式ページの「遊べるお店」(http://pripara.jp/shop/)にあるデータをプロットしたものです。お店と住所の一覧だけでは探しにくかったので作りました。他の都道府県の地図は、 http://sakuramochi.mydns.jp/pripara/map をご覧ください。]]></description>
+		<Folder>
+			<name>17-石川県-0.csv</name>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アル・プラザ金沢</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>石川県金沢市諸江町３０－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 石川県金沢市諸江町３０－１]]></description>
+				<Point>
+					<coordinates>136.6431326,36.5910868,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アル・プラザ鹿島</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>石川県鹿島郡中能登町 井田と部１－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 石川県鹿島郡中能登町 井田と部１－１]]></description>
+				<Point>
+					<coordinates>136.9078835,36.9698222,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ピアゴ七尾　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>石川県七尾市御祓町１番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 石川県七尾市御祓町１番地]]></description>
+				<address>石川県七尾市御祓町１番地</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ松任　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>石川県白山市幸明町２８０番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 石川県白山市幸明町２８０番地]]></description>
+				<address>石川県白山市幸明町２８０番地</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ金沢　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>石川県金沢市中村町１０番２０号</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 石川県金沢市中村町１０番２０号]]></description>
+				<address>石川県金沢市中村町１０番２０号</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー・ｆ御経塚</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>石川県野々市市御経塚２丁目９１番地イオン１Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 石川県野々市市御経塚２丁目９１番地イオン１Ｆ]]></description>
+				<address>石川県野々市市御経塚２丁目９１番地イオン１Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジーかほく</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>石川県かほく市内日角地内タ２５番イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 石川県かほく市内日角地内タ２５番イオン２Ｆ]]></description>
+				<Point>
+					<coordinates>136.7013195,36.7090239,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー松任</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>石川県白山市平松町１０２－１ イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 石川県白山市平松町１０２－１ イオン２Ｆ]]></description>
+				<address>石川県白山市平松町１０２－１ イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー杜の里</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>石川県金沢市もりの里１丁目７０番地イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 石川県金沢市もりの里１丁目７０番地イオン２Ｆ]]></description>
+				<address>石川県金沢市もりの里１丁目７０番地イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン金沢</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>石川県金沢市福久２－５８</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 石川県金沢市福久２－５８]]></description>
+				<address>石川県金沢市福久２－５８</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオンかほく</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>石川県かほく市内日角タ２５</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 石川県かほく市内日角タ２５]]></description>
+				<address>石川県かほく市内日角タ２５</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン松任</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>石川県白山市平松町１０２－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 石川県白山市平松町１０２－１]]></description>
+				<Point>
+					<coordinates>136.5661163,36.5079509,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン御経塚</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>石川県石川郡野々市町 御経塚２－９１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 石川県石川郡野々市町 御経塚２－９１]]></description>
+				<Point>
+					<coordinates>136.5986164,36.5489067,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>18-福井県-0.csv</name>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アル・プラザベル</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>福井県福井市花堂南２－１６－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 福井県福井市花堂南２－１６－１]]></description>
+				<Point>
+					<coordinates>136.2120847,36.0330338,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ福井大和田</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>福井県福井市大和田町２－１２３０</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 福井県福井市大和田町２－１２３０]]></description>
+				<Point>
+					<coordinates>136.2509335,36.096525,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ敦賀　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>福井県敦賀市中央町１丁目５番５号</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 福井県敦賀市中央町１丁目５番５号]]></description>
+				<address>福井県敦賀市中央町１丁目５番５号</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー鯖江</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>福井県鯖江市下河端１６字下町１６－１アル・プラザ鯖江２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 福井県鯖江市下河端１６字下町１６－１アル・プラザ鯖江２Ｆ]]></description>
+				<Point>
+					<coordinates>136.18957280000004,35.9692274,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>らんらんらんど武生</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>福井県越前市横市町２８－１４－１エスカモール武生楽市店１Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 福井県越前市横市町２８－１４－１エスカモール武生楽市店１Ｆ]]></description>
+				<Point>
+					<coordinates>136.1929874,35.9068595,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>らんらんらんど福井店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>福井県福井市松城町１２－７</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 福井県福井市松城町１２－７]]></description>
+				<address>福井県福井市松城町１２－７</address>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>19-長野県-0.csv</name>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス長野</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>長野県長野市高田１１７４ヤングファラオ２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 長野県長野市高田１１７４ヤングファラオ２Ｆ]]></description>
+				<Point>
+					<coordinates>138.2119488,36.6380149,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス松本</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>長野県松本市村井町南４－２１－２７</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 長野県松本市村井町南４－２１－２７]]></description>
+				<address>長野県松本市村井町南４－２１－２７</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>トイザらス佐久</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>長野県佐久市岩村田１７３５－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 長野県佐久市岩村田１７３５－１]]></description>
+				<Point>
+					<coordinates>138.4653282,36.2683789,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>西友 川中島店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>西友・川中島店</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 西友・川中島店]]></description>
+				<address>西友・川中島店</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>セガ松本</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>長野県松本市渚１－７－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 長野県松本市渚１－７－１]]></description>
+				<Point>
+					<coordinates>137.955844,36.23325210000001,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ飯田　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>長野県飯田市鼎名古熊２４６１番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 長野県飯田市鼎名古熊２４６１番地]]></description>
+				<address>長野県飯田市鼎名古熊２４６１番地</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ高森　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>長野県下伊那郡高森町山吹４５１５番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 長野県下伊那郡高森町山吹４５１５番地]]></description>
+				<address>長野県下伊那郡高森町山吹４５１５番地</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ岡谷　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>長野県岡谷市銀座一丁目１番５号</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 長野県岡谷市銀座一丁目１番５号]]></description>
+				<Point>
+					<coordinates>138.051809,36.0659401,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピタ伊那　　</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>長野県伊那市伊那下川原５１９８番地</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 長野県伊那市伊那下川原５１９８番地]]></description>
+				<Point>
+					<coordinates>137.949835,35.8319204,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ファンタジープラザ長野</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>長野県長野市高田１７５８番地ＭＥＧＡドン・キホーテ長野店内</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 長野県長野市高田１７５８番地ＭＥＧＡドン・キホーテ長野店内]]></description>
+				<address>長野県長野市高田１７５８番地ＭＥＧＡドン・キホーテ長野店内</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>タイトーステーション　アイシティ２１松本店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>長野県東筑摩郡山形村 ７９７７</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 長野県東筑摩郡山形村 ７９７７]]></description>
+				<Point>
+					<coordinates>137.892772,36.1842262,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー長野</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>長野県長野市権堂町２２０１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 長野県長野市権堂町２２０１]]></description>
+				<Point>
+					<coordinates>138.1915444,36.6533826,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドー南松本</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>長野県松本市高宮中１－２０</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 長野県松本市高宮中１－２０]]></description>
+				<address>長野県松本市高宮中１－２０</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イトーヨーカドーアリオ上田</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>長野県上田市天神３－５１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 長野県上田市天神３－５１]]></description>
+				<Point>
+					<coordinates>138.2443897,36.3994441,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>ＳＯＹＵ　Ｇａｍｅ　Ｆｉｅｌｄ長野店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>長野県長野市三輪九丁目４３番２４号イオンタウン長野三輪２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 長野県長野市三輪九丁目４３番２４号イオンタウン長野三輪２Ｆ]]></description>
+				<Point>
+					<coordinates>138.207486,36.6697327,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>アピナ長野村山店</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>長野県長野市村山５０２－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 長野県長野市村山５０２－１]]></description>
+				<address>長野県長野市村山５０２－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー上田</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>長野県上田市常田２－１２－１８イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 長野県上田市常田２－１２－１８イオン２Ｆ]]></description>
+				<address>長野県上田市常田２－１２－１８イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー中野</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>長野県中野市大字一本木２５２－１イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 長野県中野市大字一本木２５２－１イオン２Ｆ]]></description>
+				<address>長野県中野市大字一本木２５２－１イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー南松本</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>長野県松本市双葉５－２０イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 長野県松本市双葉５－２０イオン２Ｆ]]></description>
+				<address>長野県松本市双葉５－２０イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー飯田</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>長野県飯田市上郷飯沼１５７５イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 長野県飯田市上郷飯沼１５７５イオン２Ｆ]]></description>
+				<address>長野県飯田市上郷飯沼１５７５イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー飯田アップルロード</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>長野県飯田市鼎一色４５６イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 長野県飯田市鼎一色４５６イオン２Ｆ]]></description>
+				<address>長野県飯田市鼎一色４５６イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>モーリーファンタジー豊科</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>長野県安曇野市豊科４２７２－１０ イオン２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 長野県安曇野市豊科４２７２－１０ イオン２Ｆ]]></description>
+				<address>長野県安曇野市豊科４２７２－１０ イオン２Ｆ</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>パロ諏訪</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>長野県諏訪市沖田町５－１８ ステーションパーク・諏訪１Ｆ・２Ｆ</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 長野県諏訪市沖田町５－１８ ステーションパーク・諏訪１Ｆ・２Ｆ]]></description>
+				<Point>
+					<coordinates>138.1283965,36.0054526,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン東松本</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>長野県松本市中央４－９－４３</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 長野県松本市中央４－９－４３]]></description>
+				<Point>
+					<coordinates>137.9791673,36.2342238,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン佐久平</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>長野県佐久市佐久平駅南１１－１０</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 長野県佐久市佐久平駅南１１－１０]]></description>
+				<address>長野県佐久市佐久平駅南１１－１０</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン上田</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>長野県上田市常田２－１２－１８</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 長野県上田市常田２－１２－１８]]></description>
+				<address>長野県上田市常田２－１２－１８</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン中野</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>長野県中野市大字一本木２５２－１</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 長野県中野市大字一本木２５２－１]]></description>
+				<address>長野県中野市大字一本木２５２－１</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>イオン豊科</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>長野県安曇野市豊科４２７２－１０</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 長野県安曇野市豊科４２７２－１０]]></description>
+				<address>長野県安曇野市豊科４２７２－１０</address>
+			</Placemark>
+			<Placemark>
+				<styleUrl>#icon-960-F4EB37</styleUrl>
+				<name>こどもや諏訪</name>
+				<ExtendedData>
+					<Data name='address'>
+						<value>長野県諏訪市沖田町５－１９諏訪ステーションパーク内</value>
+					</Data>
+				</ExtendedData>
+				<description><![CDATA[address: 長野県諏訪市沖田町５－１９諏訪ステーションパーク内]]></description>
+				<Point>
+					<coordinates>138.1286706,36.0049552,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-960-F4EB37'>
+			<IconStyle>
+				<color>ff37EBF4</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/960-wht-star-blank.png</href>
+				</Icon>
+			</IconStyle>
+		</Style>
+	</Document>
+</kml>
