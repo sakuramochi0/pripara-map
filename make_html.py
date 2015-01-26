@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # Make html pages from map list
-# do following command: ./make_html.py && for i in *.md; do; md2html $i -h; done && mv *.html html/
+# do following command: ./make_html.py && for i in htmls/*.md; do; md2html $i -h; done && mv *.html html/
 import csv
 
 with open('google-map-link.csv') as f:
@@ -19,7 +19,7 @@ with open('google-map-link.csv') as f:
         with open('pref-template') as f:
             template = f.read()
         html = template.format(pref=pref, pref_name=pref_name, mid=mid)
-        filename = pref_name + '.md'
+        filename = 'htmls/' + pref_name + '.md'
         with open(filename, 'w') as f:
             f.write(html)
 
@@ -27,7 +27,7 @@ with open('google-map-link.csv') as f:
         with open('pref-header-template') as f:
             template = f.read()
         html = template.format(pref=pref)
-        filename = pref_name + '-header'
+        filename = 'htmls/' + pref_name + '-header'
         with open(filename, 'w') as f:
             f.write(html)
 
@@ -36,6 +36,6 @@ with open('google-map-link.csv') as f:
     with open('store_num.txt') as f:
         store_num = f.read()
     html = template.format(links='\n'.join(links), store_num=store_num)
-    with open('index.md', 'w') as f:
+    with open('htmls/index.md', 'w') as f:
         f.write(html)
 
