@@ -12,13 +12,16 @@ pagetitle: プリパラが遊べるお店の地図
 
 # プリパラが遊べるお店の地図
 
-![<span style="font-size: small">プリズムのきらめき</span><span class="star">★</spann><span class="star-green">★</spann>](map.png)
-
+![
+<span class="star-green">★</span>
+<span class="star">★</span>
+<span style="font-size: small">プリズムのきらめき</span>
+<span class="star">★</spann>
+<span class="star-green">★</span>
+](pripara-map-prismstone-2.png)
 
 <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://sakuramochi.mydns.jp/pripara/map" data-size="large" data-hashtags="pripara">Tweet</a>
 <script>!function(d,s,id){{var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){{js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}}}(document, 'script', 'twitter-wjs');</script>
-
-※ 2015年1月27日(火)に一時的にサイトにアクセスできない状態になっていました。ご不便をお掛けしてすみません。
 
 ## これは何？
 『プリパラ』公式ページの「[遊べるお店](http://pripara.jp/shop/)」にあるお店と住所のデータをGoogle Mapにプロットしたものです。お店と住所の一覧だけでは、近くにあるお店を探しにくかったので作りました。お役に立てば幸いです。
@@ -29,31 +32,42 @@ pagetitle: プリパラが遊べるお店の地図
 
 地図の更新日: 2014年1月28日 / 登録されているお店の数: {store_num}件
 
+<p style="text-align: center"><a href="here"><button class="btn btn-default">
+<i class="fa fa-map-marker"></i>この近くの地図を表示する<br />
+（GPSなどの位置情報を利用します）
+</button></a></p>
+
 {links}
 
 ## 更新情報
 
+2015年1月29日
+:    GPSなどの位置情報などを利用して、「この近くの地図を表示する」機能を追加しました。端末によっては、上手く機能しない場合があります。
+
 2015年1月28日
-:    1月に更新されたお店、約600件を地図に追加しました。今回追加したお店には、緑色の星<span class="star-green">★</span>を使っています。
+:    1月に更新されたお店、約600件を地図に追加しました。今回追加したお店には、緑色の星<span class="star-green">★</span>(エスニ？)を使っています。
 :    Googleが提供してくれているGoogle Maps Engineのバージョンアップにより、すべてのお店をひとつの地図に追加することができるようになりました。これに伴い、いくつかの都道府県でまとめていたページを個別のページに分割しました。
-:    また、住所の書式を綺麗にして、星を選択したときに表示されるツールチップの情報を少しわかりやすくしました。
+:    また、住所の書式を綺麗にして、星を選択したときに表示されるツールチップの情報を少しわかりやすくしました。間違いを修正したお店の住所の一覧も、[その他](#misc)のところからダウンロードできるようにしました。
 
 2014年12月17日
 :    トップページのレイアウトを変更しました。
-:    10月9日の更新情報で<span class="star-blue">★</span>を使用するとしていましたが、新しいお店が追加される様子はなく、プリパラライトはすでにプリパラがあるお店にしか置かれていないようです。そのため、今後は新しいお店が追加されても、<span class="star-blue">★</span>は使用せず、<span class="star">★</span>を使用することにします。
-
-2014年10月9日
-:    10月中旬頃から「プリパラ ライト」が導入された（参考: [「プリパラ ライト」がお店に登場だよ！！](http://pripara.jp/news/detail?seq=140)）ことに伴い、本日以降に追加されたお店には、青色の<span class="star-blue">★</span>を使用することにします。
 
 2014年9月22日
 :    住所から自動的に場所を検出していたため、<span class="star">★</span>の場所に少なくない間違いがありました。一度、手動で確認を行い、間違いを修正しました。
 
 ## <a name="notice"></a>注意事項
-データの取得日以降に追加されたお店は地図に反映されていないため、新しくできたお店や最近なくなったお店が掲載されていないことがあります。
+まれに<span class="star">★</span>の位置が正しくないことがあります。店に行くときには、ご自分で十分に確認をするようにしてください。
 
-<span class="star">★</span>の位置が正しくないことがあるので、店に行くときには、ご自分で十分に確認をするにようにしてください。もし間違いを見つけた方がいたら、[メール](mailto:sakuramochi.mochi.0@gmail.com)または[Twitterアカウント](https://twitter.com/intent/tweet?text=@sakuramochi_0%20[%E3%83%97%E3%83%AA%E3%83%91%E3%83%A9%E3%81%8C%E9%81%8A%E3%81%B9%E3%82%8B%E3%81%8A%E5%BA%97%E3%81%AE%E3%83%9E%E3%83%83%E3%83%97%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6]%20)まで連絡していただけると助かります。連絡があればすぐに修正します。その他、何かあれば、お気軽にご連絡ください。
+間違いを見つけた時には、[メール](mailto:sakuramochi.mochi.0@gmail.com)または[Twitterアカウント](https://twitter.com/intent/tweet?text=@sakuramochi_0%20[%E3%83%97%E3%83%AA%E3%83%91%E3%83%A9%E3%81%8C%E9%81%8A%E3%81%B9%E3%82%8B%E3%81%8A%E5%BA%97%E3%81%AE%E3%83%9E%E3%83%83%E3%83%97%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6]%20)まで連絡していただけると助かります。星の数が違うとか、位置が少しおかしいとか、些細なことでもかまいません。その他、何かあれば、お気軽にご連絡ください。
 
-## その他
+## <a name="misc"></a>その他
+
+住所の一覧
+:    <a href="https://drive.google.com/open?id=0BzmKRJo8pL0DVXNqRkt6Tkdqbmc&authuser=0">
+<button type="button" class="btn btn-default">
+<span class="fa-lg fa fa-cloud-download"></span> Google Drive
+</button>
+</a>
 
 ソースコード
 :    

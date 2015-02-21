@@ -17,8 +17,13 @@ a {
 }
 
 img {
-   max-width: 730px;
+   max-width: 100%;
    margin: 0px auto;
+}
+
+.icon img {
+   width: 24px;
+   vertical-align: text-bottom;
 }
 
 h1, h2, h3 {
@@ -28,6 +33,7 @@ h1, h2, h3 {
 h2 {
    border-left: 0.3em pink solid;
    padding-left: 0.3em;
+   margin: 1em 0 !important;
 }
 
 li {
@@ -39,6 +45,10 @@ li {
    width: 100%;
    height: 700px;
    border: none;
+}
+
+figure {
+   margin: 20px;
 }
 
 figcaption {
@@ -129,4 +139,12 @@ dd {
    padding: 0 5px;
    color: #ccc;
    content: "/\00a0";
+}
+
+.g-recaptcha {
+   margin-bottom: 1em;
+}
+
+.fa {
+   margin-right: 5px;
 }

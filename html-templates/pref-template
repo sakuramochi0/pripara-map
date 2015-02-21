@@ -11,7 +11,8 @@ pagetitle: {pref}でプリパラが遊べるお店
 <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://sakuramochi.mydns.jp/pripara/map/{pref_name}" data-size="large" data-hashtags="pripara">Tweet</a>
 <script>!function(d,s,id){{var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){{js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}}}(document, 'script', 'twitter-wjs');</script>
 
-[地図を全画面で表示する](https://mapsengine.google.com/map/u/0/viewer?ll={ll}&mid={mid}&z={z})
+[<span class="icon">![](https://ssl.gstatic.com/images/icons/product/maps-32.png)</span>
+地図を全画面で表示する](https://www.google.com/maps/d/viewer?ll={ll}&mid={mid}&z={z})
 
 <iframe class="map" src="https://mapsengine.google.com/map/u/1/embed?ll={ll}&amp;mid={mid}&z={z}"></iframe>
 
