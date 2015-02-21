@@ -31,7 +31,6 @@ for pref_num, pref in enumerate(pref_list):
         for i in h2[start:end]:
             shop = i.text
             address = i.find_next('p').text
-            address = re.sub(r'玩.{0,5}場', '', address)
             address = re.sub(r'　', '', address)   # avoid import error
             if shop not in shops:
                 shops[shop] = address
